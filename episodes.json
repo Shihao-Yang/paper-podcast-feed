@@ -7,5 +7,14 @@
     "audio_path": "episodes/2026-04-26-llm-jepa-large-language-models-meet-joint-embedding-predictive-architectures.mp3",
     "audio_size_bytes": 8760259,
     "duration_seconds": 1094.929841
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-04-26-green-shielding-a-framework-for-user-level-query-variation-in-medical-ai.mp3",
+    "title": "Green Shielding: A Framework for User-Level Query Variation in Medical AI",
+    "description": "The central problem this paper addresses is deceptively simple: large language models behave differently depending on how you ask them things. Not adversarially \u2014 not jailbreaks or prompt injections \u2014 but in the ordinary, routine ways that real users happen to phrase their questions. A patient who writes a worried, first-person message gets a different medical response than one who writes a calm, third-person clinical description of the same condition. The authors call their framework for studying this Green Shielding, and they instantiate it in the domain of medical diagnosis.",
+    "pub_date_iso": "2026-04-26T03:54:42.603449+00:00",
+    "audio_path": "episodes/2026-04-26-green-shielding-a-framework-for-user-level-query-variation-in-medical-ai.mp3",
+    "audio_size_bytes": 9009990,
+    "duration_seconds": 1126.163447
   }
 ]

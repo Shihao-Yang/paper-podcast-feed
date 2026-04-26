@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 03:54:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 03:54:42 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -20,6 +20,16 @@
       <itunes:category text="Mathematics"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Green Shielding: A Framework for User-Level Query Variation in Medical AI</title>
+      <description>The central problem this paper addresses is deceptively simple: large language models behave differently depending on how you ask them things. Not adversarially — not jailbreaks or prompt injections — but in the ordinary, routine ways that real users happen to phrase their questions. A patient who writes a worried, first-person message gets a different medical response than one who writes a calm, third-person clinical description of the same condition. The authors call their framework for studying this Green Shielding, and they instantiate it in the domain of medical diagnosis.</description>
+      <pubDate>Sun, 26 Apr 2026 03:54:42 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-04-26-green-shielding-a-framework-for-user-level-query-variation-in-medical-ai.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-04-26-green-shielding-a-framework-for-user-level-query-variation-in-medical-ai.mp3" length="9009990" type="audio/mpeg"/>
+      <itunes:duration>18:46</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures</title>
       <description>There is a long-standing divide at the heart of representation learning. On one side you have generative methods, which learn by reconstructing their inputs — predicting the next token, filling in masked patches, or decoding a compressed representation back to pixel space. On the other side you have Joint Embedding Predictive Architectures, or JEPAs, which instead operate entirely in embedding space: they learn by predicting the embedding of one view of an input from the embedding of another view, with no attempt to reconstruct the original. In vision, this distinction has turned out to matter enormously. JEPA-style objectives consistently outperform reconstruction objectives on perception and knowledge-discovery tasks, partly because they escape the biases introduced by operating in raw input space — the kind of fine-grained pixel-level detail that is irrelevant to understanding a scene.</description>
