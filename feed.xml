@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sean's Paper Podcast</title>
+    <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
+    <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2026 03:54:35 +0000</lastBuildDate>
+    <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Sean Shihao Yang</itunes:author>
+    <itunes:owner>
+      <itunes:name>Sean Shihao Yang</itunes:name>
+      <itunes:email>sean.shihao.yang@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://shihao-yang.github.io/paper-podcast-feed/cover.jpg"/>
+    <itunes:category text="Science">
+      <itunes:category text="Mathematics"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures</title>
+      <description>There is a long-standing divide at the heart of representation learning. On one side you have generative methods, which learn by reconstructing their inputs — predicting the next token, filling in masked patches, or decoding a compressed representation back to pixel space. On the other side you have Joint Embedding Predictive Architectures, or JEPAs, which instead operate entirely in embedding space: they learn by predicting the embedding of one view of an input from the embedding of another view, with no attempt to reconstruct the original. In vision, this distinction has turned out to matter enormously. JEPA-style objectives consistently outperform reconstruction objectives on perception and knowledge-discovery tasks, partly because they escape the biases introduced by operating in raw input space — the kind of fine-grained pixel-level detail that is irrelevant to understanding a scene.</description>
+      <pubDate>Sun, 26 Apr 2026 03:54:35 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-04-26-llm-jepa-large-language-models-meet-joint-embedding-predictive-architectures.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-04-26-llm-jepa-large-language-models-meet-joint-embedding-predictive-architectures.mp3" length="8760259" type="audio/mpeg"/>
+      <itunes:duration>18:15</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

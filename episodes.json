@@ -1,0 +1,11 @@
+[
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-04-26-llm-jepa-large-language-models-meet-joint-embedding-predictive-architectures.mp3",
+    "title": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures",
+    "description": "There is a long-standing divide at the heart of representation learning. On one side you have generative methods, which learn by reconstructing their inputs \u2014 predicting the next token, filling in masked patches, or decoding a compressed representation back to pixel space. On the other side you have Joint Embedding Predictive Architectures, or JEPAs, which instead operate entirely in embedding space: they learn by predicting the embedding of one view of an input from the embedding of another view, with no attempt to reconstruct the original. In vision, this distinction has turned out to matter enormously. JEPA-style objectives consistently outperform reconstruction objectives on perception and knowledge-discovery tasks, partly because they escape the biases introduced by operating in raw input space \u2014 the kind of fine-grained pixel-level detail that is irrelevant to understanding a scene.",
+    "pub_date_iso": "2026-04-26T03:54:35.235590+00:00",
+    "audio_path": "episodes/2026-04-26-llm-jepa-large-language-models-meet-joint-embedding-predictive-architectures.mp3",
+    "audio_size_bytes": 8760259,
+    "duration_seconds": 1094.929841
+  }
+]
