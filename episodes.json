@@ -16,5 +16,14 @@
     "audio_path": "episodes/2026-04-26-green-shielding-a-framework-for-user-level-query-variation-in-medical-ai.mp3",
     "audio_size_bytes": 9009990,
     "duration_seconds": 1126.163447
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-08-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-neural-diff.mp3",
+    "title": "Predicting the impact of treatments over time with uncertainty aware neural differential equations",
+    "description": "Predicting the impact of treatments from observational data is a major unsolved challenge despite significant recent advances in time series modeling. When clinicians decide who receives a treatment, their decisions are typically correlated with the very features that predict outcomes \u2014 a patient's blood pressure, disease trajectory, overall prognosis. This confounding means that the population of treated patients looks systematically different from the untreated population, creating a distribution shift between what we observe and what we want to predict. Prior work on addressing this usually assumes a positive level of statistical overlap between treated and untreated groups, but overlap is both difficult to verify and rarely satisfied in practice.",
+    "pub_date_iso": "2026-05-08T12:37:24.108870+00:00",
+    "audio_path": "episodes/2026-05-08-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-neural-diff.mp3",
+    "audio_size_bytes": 10977741,
+    "duration_seconds": 1372.132834
   }
 ]
