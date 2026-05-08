@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 12:37:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:38:09 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -20,6 +20,16 @@
       <itunes:category text="Mathematics"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Quick Take — Predicting the impact of treatments over time with uncertainty aware neural differential equations</title>
+      <description>The core problem in treatment effect estimation from observational data is confounding: patients who receive a treatment tend to be systematically different from those who don't, so comparing outcomes directly gives biased estimates. Most methods that try to correct for this require an assumption called positive overlap — that for any patient history, both treated and untreated outcomes are actually observed somewhere in the data. In practice this assumption is hard to verify and frequently violated. This paper takes a different angle: rather than trying harder to satisfy the overlap assumption, accept that it may fail and build a model that knows when it doesn't know.</description>
+      <pubDate>Fri, 08 May 2026 12:37:25 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-08-quick-take-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-08-quick-take-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-.mp3" length="1686300" type="audio/mpeg"/>
+      <itunes:duration>3:31</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Predicting the impact of treatments over time with uncertainty aware neural differential equations</title>
       <description>Predicting the impact of treatments from observational data is a major unsolved challenge despite significant recent advances in time series modeling. When clinicians decide who receives a treatment, their decisions are typically correlated with the very features that predict outcomes — a patient's blood pressure, disease trajectory, overall prognosis. This confounding means that the population of treated patients looks systematically different from the untreated population, creating a distribution shift between what we observe and what we want to predict. Prior work on addressing this usually assumes a positive level of statistical overlap between treated and untreated groups, but overlap is both difficult to verify and rarely satisfied in practice.</description>

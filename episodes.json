@@ -25,5 +25,14 @@
     "audio_path": "episodes/2026-05-08-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-neural-diff.mp3",
     "audio_size_bytes": 10977741,
     "duration_seconds": 1372.132834
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-08-quick-take-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-.mp3",
+    "title": "Quick Take \u2014 Predicting the impact of treatments over time with uncertainty aware neural differential equations",
+    "description": "The core problem in treatment effect estimation from observational data is confounding: patients who receive a treatment tend to be systematically different from those who don't, so comparing outcomes directly gives biased estimates. Most methods that try to correct for this require an assumption called positive overlap \u2014 that for any patient history, both treated and untreated outcomes are actually observed somewhere in the data. In practice this assumption is hard to verify and frequently violated. This paper takes a different angle: rather than trying harder to satisfy the overlap assumption, accept that it may fail and build a model that knows when it doesn't know.",
+    "pub_date_iso": "2026-05-08T12:37:25.108870+00:00",
+    "audio_path": "episodes/2026-05-08-quick-take-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-.mp3",
+    "audio_size_bytes": 1686300,
+    "duration_seconds": 210.682313
   }
 ]
