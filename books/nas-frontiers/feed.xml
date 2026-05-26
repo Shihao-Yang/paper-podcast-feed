@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/</link>
     <description>AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 21:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:31:11 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
     <itunes:owner>
@@ -148,6 +148,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 9 — Appendices</title>
+      <description>The National Academies will assemble an interdisciplinary ad hoc committee to produce a forward-looking assessment of the current state of the statistical sciences and emerging opportunities for the discipline and its stakeholders as they look ahead to 2035 and beyond. The study may make recommendations to funding agencies on how to adjust and expand their portfolios of activities and partnerships to reflect the evolution of the field and strengthen the impact of the discipline.</description>
+      <pubDate>Tue, 26 May 2026 20:50:09 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-09-appendices.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/ch-09-appendices.mp3" length="14567802" type="audio/mpeg"/>
+      <itunes:duration>30:21</itunes:duration>
+      <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>

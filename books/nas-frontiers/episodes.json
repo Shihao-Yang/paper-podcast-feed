@@ -118,5 +118,17 @@
     "season": 1,
     "episode_number": 8,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-09-appendices.mp3",
+    "title": "Ch. 9 \u2014 Appendices",
+    "description": "The National Academies will assemble an interdisciplinary ad hoc committee to produce a forward-looking assessment of the current state of the statistical sciences and emerging opportunities for the discipline and its stakeholders as they look ahead to 2035 and beyond. The study may make recommendations to funding agencies on how to adjust and expand their portfolios of activities and partnerships to reflect the evolution of the field and strengthen the impact of the discipline.",
+    "pub_date_iso": "2026-05-26T20:50:09.253439+00:00",
+    "audio_path": "episodes/ch-09-appendices.mp3",
+    "audio_size_bytes": 14567802,
+    "duration_seconds": 1820.881633,
+    "season": 1,
+    "episode_number": 9,
+    "episode_type": "Full"
   }
 ]
