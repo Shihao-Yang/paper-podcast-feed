@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/</link>
     <description>AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 21:24:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:27:43 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
     <itunes:owner>
@@ -135,6 +135,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 8 — Recommendations</title>
+      <description>This chapter introduces the report's recommendations and includes the supporting conclusions and key findings from throughout the report. Given the scope of important and competing initiatives that agencies and institutions must balance, and in recognition of a dynamic funding landscape, the committee offers the roadmap below for recommendation implementation. This prioritization is based both on urgency and need as well as ease of adoption — that is, which of the below should be prioritized regardless of, or despite, fluctuations in funding.</description>
+      <pubDate>Tue, 26 May 2026 20:49:09 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-08-recommendations.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/ch-08-recommendations.mp3" length="13776605" type="audio/mpeg"/>
+      <itunes:duration>28:42</itunes:duration>
+      <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>
