@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 15:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:21:30 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -148,6 +148,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 10 — Extending the Least Squares Algorithm</title>
+      <description>The previous chapter introduced the idea of fitting a straight line to predict house sale prices in Ames, Iowa, using a single feature: the living area of the house. This chapter builds on that foundation in two directions. First, it shows how to incorporate many predictive features at once into a linear fit. Second, it introduces regularization — a family of techniques that constrain the fit to produce more stable, generalizable predictions. The focus stays on the least-squares algorithm throughout, but nearly everything discussed here applies equally to other linear algorithms.</description>
+      <pubDate>Tue, 26 May 2026 15:02:20 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-10-extending-the-least-squares-algorithm.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-10-extending-the-least-squares-algorithm.mp3" length="16240684" type="audio/mpeg"/>
+      <itunes:duration>33:50</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>

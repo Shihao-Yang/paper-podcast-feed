@@ -118,5 +118,17 @@
     "season": 1,
     "episode_number": 9,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-10-extending-the-least-squares-algorithm.mp3",
+    "title": "Ch. 10 \u2014 Extending the Least Squares Algorithm",
+    "description": "The previous chapter introduced the idea of fitting a straight line to predict house sale prices in Ames, Iowa, using a single feature: the living area of the house. This chapter builds on that foundation in two directions. First, it shows how to incorporate many predictive features at once into a linear fit. Second, it introduces regularization \u2014 a family of techniques that constrain the fit to produce more stable, generalizable predictions. The focus stays on the least-squares algorithm throughout, but nearly everything discussed here applies equally to other linear algorithms.",
+    "pub_date_iso": "2026-05-26T15:02:20.219901+00:00",
+    "audio_path": "episodes/ch-10-extending-the-least-squares-algorithm.mp3",
+    "audio_size_bytes": 16240684,
+    "duration_seconds": 2029.985714,
+    "season": 1,
+    "episode_number": 10,
+    "episode_type": "Full"
   }
 ]
