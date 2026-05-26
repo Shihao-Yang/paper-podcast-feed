@@ -70,5 +70,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-26-boosting-data-analytics-with-synthetic-volume-expansion.mp3",
+    "title": "Boosting Data Analytics with Synthetic Volume Expansion",
+    "description": "Synthetic data generation, a cornerstone of generative artificial intelligence, promises to reshape data science by addressing two persistent challenges: data scarcity and privacy. As synthetic data becomes more prevalent, a natural question arises \u2014 are the statistical methods we apply to it actually reliable? This paper investigates both sides of that question. On the effectiveness side, the authors introduce the Synthetic Data Generation for Analytics framework, which they call Syn. The framework applies statistical methods to high-fidelity synthetic data produced by generative models that have been fine-tuned on raw data using transfer learning. A central finding is the generational effect: as more synthetic data is added, accuracy tends to improve and then plateau or even worsen, pointing to the existence of a reflection point \u2014 an ideal synthetic sample size beyond which generation errors begin to dominate. Three case studies validate the framework across sentiment analysis, predictive modeling of structured data, and statistical inference on tabular data. On the privacy side, synthetic data imposes lower risk than raw data while remaining compatible with the differential privacy standard.",
+    "pub_date_iso": "2026-05-26T15:37:53.487579+00:00",
+    "audio_path": "episodes/2026-05-26-boosting-data-analytics-with-synthetic-volume-expansion.mp3",
+    "audio_size_bytes": 13807534,
+    "duration_seconds": 1725.841769,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
