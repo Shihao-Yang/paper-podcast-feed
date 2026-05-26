@@ -94,5 +94,17 @@
     "season": 1,
     "episode_number": 7,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-08-an-introduction-to-prediction-problems.mp3",
+    "title": "Ch. 8 \u2014 An Introduction to Prediction Problems",
+    "description": "So far in Veridical Data Science, the focus has been on understanding the structure of data \u2014 summarizing patterns, reducing dimensions, finding clusters. Part three of the book shifts gears entirely, turning attention to prediction problems, which sit at the heart of both traditional statistics and machine learning.",
+    "pub_date_iso": "2026-05-26T15:00:20.219901+00:00",
+    "audio_path": "episodes/ch-08-an-introduction-to-prediction-problems.mp3",
+    "audio_size_bytes": 11588380,
+    "duration_seconds": 1448.45356,
+    "season": 1,
+    "episode_number": 8,
+    "episode_type": "Full"
   }
 ]
