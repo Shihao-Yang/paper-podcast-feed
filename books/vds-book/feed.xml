@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 15:27:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:30:50 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -187,6 +187,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 13 — Producing the Final Prediction Results</title>
+      <description>The traditional approach to machine learning involves picking the best-performing algorithm from a competition run on a single, fixed version of the cleaned and preprocessed training data. That is its blind spot: it explores algorithmic choices but ignores the uncertainty that comes from the specific version of the data used for training — all the judgment calls made during cleaning and preprocessing. In the PCS framework, the unit of comparison is not just an algorithm but a predictive fit: the pairing of one algorithm with one particular cleaned and preprocessed training dataset. By generating predictions from many such fits — spanning a range of algorithms and a range of plausible data-preparation choices — the framework surfaces the uncertainty that lives not just in the model but in the data pipeline itself.</description>
+      <pubDate>Tue, 26 May 2026 15:05:20 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-13-producing-the-final-prediction-results.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-13-producing-the-final-prediction-results.mp3" length="11395910" type="audio/mpeg"/>
+      <itunes:duration>23:44</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>
