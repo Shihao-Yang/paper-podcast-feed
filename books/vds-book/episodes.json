@@ -166,5 +166,17 @@
     "season": 1,
     "episode_number": 13,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-14-conclusion.mp3",
+    "title": "Ch. 14 \u2014 Conclusion",
+    "description": "Whether you arrived here by skipping ahead or you read every single word of this book, you have now made it to the end. This final chapter brings the book to a close with a recap of its primary themes and takeaway messages.",
+    "pub_date_iso": "2026-05-26T15:06:20.219901+00:00",
+    "audio_path": "episodes/ch-14-conclusion.mp3",
+    "audio_size_bytes": 5148047,
+    "duration_seconds": 643.418549,
+    "season": 1,
+    "episode_number": 14,
+    "episode_type": "Full"
   }
 ]
