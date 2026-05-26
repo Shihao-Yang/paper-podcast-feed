@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 23:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:17:00 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -32,19 +32,6 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>Trailer</itunes:episodeType>
-    </item>
-    <item>
-      <title>Ch. 12 — Decision Trees and the Random Forest Algorithm</title>
-      <description>The previous chapters introduced algorithms like Least Squares and logistic regression for generating predictions of continuous and binary responses. While these traditional predictive algorithms remain widely used, the modern data science toolbox also typically includes several nonlinear predictive algorithms. The primary example this chapter focuses on is the Random Forest algorithm, which uses decision trees to generate predictions. Other algorithms you are likely to encounter — Support Vector Machines, Kernel Ridge Regression, and Neural Networks — are not covered here, but classic references exist for those who want to explore them further.</description>
-      <pubDate>Tue, 26 May 2026 15:04:20 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3" length="12533595" type="audio/mpeg"/>
-      <itunes:duration>26:07</itunes:duration>
-      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>12</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
     </item>
     <item>
       <title>Ch. 13 — Producing the Final Prediction Results</title>
@@ -213,6 +200,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 12 — Decision Trees and the Random Forest Algorithm</title>
+      <description>The previous chapters have introduced algorithms, such as Least Squares and logistic regression, for generating predictions of continuous and binary responses. While these more traditional predictive algorithms are still commonly used in practice, the modern data science toolbox typically also contains several nonlinear predictive algorithms such as the Random Forest algorithm, which uses decision trees to generate predictions and will be the focus of this chapter. Other predictive algorithms that you are likely to encounter in your data science practice include Support Vector Machines, Kernel Ridge Regression, and Neural Networks, or "deep learning" algorithms — each of which can be thought of as a sophisticated extension of the Least Squares and logistic regression algorithms we have already introduced — however, we won't cover these in this book. See The Elements of Statistical Learning for a classic machine learning reference and Deep Learning for a deep learning and neural networks reference.</description>
+      <pubDate>Tue, 26 May 2026 21:43:16 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3" length="24897663" type="audio/mpeg"/>
+      <itunes:duration>51:52</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>

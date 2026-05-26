@@ -12,18 +12,6 @@
     "episode_type": "Trailer"
   },
   {
-    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3",
-    "title": "Ch. 12 \u2014 Decision Trees and the Random Forest Algorithm",
-    "description": "The previous chapters introduced algorithms like Least Squares and logistic regression for generating predictions of continuous and binary responses. While these traditional predictive algorithms remain widely used, the modern data science toolbox also typically includes several nonlinear predictive algorithms. The primary example this chapter focuses on is the Random Forest algorithm, which uses decision trees to generate predictions. Other algorithms you are likely to encounter \u2014 Support Vector Machines, Kernel Ridge Regression, and Neural Networks \u2014 are not covered here, but classic references exist for those who want to explore them further.",
-    "pub_date_iso": "2026-05-26T15:04:20.219901+00:00",
-    "audio_path": "episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3",
-    "audio_size_bytes": 12533595,
-    "duration_seconds": 1566.596689,
-    "season": 1,
-    "episode_number": 12,
-    "episode_type": "Full"
-  },
-  {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-13-producing-the-final-prediction-results.mp3",
     "title": "Ch. 13 \u2014 Producing the Final Prediction Results",
     "description": "The traditional approach to machine learning involves picking the best-performing algorithm from a competition run on a single, fixed version of the cleaned and preprocessed training data. That is its blind spot: it explores algorithmic choices but ignores the uncertainty that comes from the specific version of the data used for training \u2014 all the judgment calls made during cleaning and preprocessing. In the PCS framework, the unit of comparison is not just an algorithm but a predictive fit: the pairing of one algorithm with one particular cleaned and preprocessed training dataset. By generating predictions from many such fits \u2014 spanning a range of algorithms and a range of plausible data-preparation choices \u2014 the framework surfaces the uncertainty that lives not just in the model but in the data pipeline itself.",
@@ -177,6 +165,18 @@
     "duration_seconds": 4620.276145,
     "season": 1,
     "episode_number": 11,
+    "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3",
+    "title": "Ch. 12 \u2014 Decision Trees and the Random Forest Algorithm",
+    "description": "The previous chapters have introduced algorithms, such as Least Squares and logistic regression, for generating predictions of continuous and binary responses. While these more traditional predictive algorithms are still commonly used in practice, the modern data science toolbox typically also contains several nonlinear predictive algorithms such as the Random Forest algorithm, which uses decision trees to generate predictions and will be the focus of this chapter. Other predictive algorithms that you are likely to encounter in your data science practice include Support Vector Machines, Kernel Ridge Regression, and Neural Networks, or \"deep learning\" algorithms \u2014 each of which can be thought of as a sophisticated extension of the Least Squares and logistic regression algorithms we have already introduced \u2014 however, we won't cover these in this book. See The Elements of Statistical Learning for a classic machine learning reference and Deep Learning for a deep learning and neural networks reference.",
+    "pub_date_iso": "2026-05-26T21:43:16.303534+00:00",
+    "audio_path": "episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3",
+    "audio_size_bytes": 24897663,
+    "duration_seconds": 3112.116871,
+    "season": 1,
+    "episode_number": 12,
     "episode_type": "Full"
   }
 ]
