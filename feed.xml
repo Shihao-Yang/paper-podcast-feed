@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 12:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:14:07 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -19,7 +19,18 @@
     <itunes:category text="Science">
       <itunes:category text="Mathematics"/>
     </itunes:category>
+    <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Boosting Data Analytics with Synthetic Volume Expansion</title>
+      <description>Synthetic data generation has become a cornerstone of modern data science, promising a way to address both data scarcity and privacy concerns simultaneously. This paper asks a precise question: can high-fidelity synthetic data actually make statistical methods more accurate — and if so, how much synthetic data should you use?</description>
+      <pubDate>Tue, 26 May 2026 15:13:27 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-26-boosting-data-analytics-with-synthetic-volume-expansion.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-26-boosting-data-analytics-with-synthetic-volume-expansion.mp3" length="14219642" type="audio/mpeg"/>
+      <itunes:duration>29:37</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Quick Take — Predicting the impact of treatments over time with uncertainty aware neural differential equations</title>
       <description>The core problem in treatment effect estimation from observational data is confounding: patients who receive a treatment tend to be systematically different from those who don't, so comparing outcomes directly gives biased estimates. Most methods that try to correct for this require an assumption called positive overlap — that for any patient history, both treated and untreated outcomes are actually observed somewhere in the data. In practice this assumption is hard to verify and frequently violated. This paper takes a different angle: rather than trying harder to satisfy the overlap assumption, accept that it may fail and build a model that knows when it doesn't know.</description>

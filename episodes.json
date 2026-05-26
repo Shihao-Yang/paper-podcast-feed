@@ -6,7 +6,10 @@
     "pub_date_iso": "2026-04-26T03:54:35.235590+00:00",
     "audio_path": "episodes/2026-04-26-llm-jepa-large-language-models-meet-joint-embedding-predictive-architectures.mp3",
     "audio_size_bytes": 8760259,
-    "duration_seconds": 1094.929841
+    "duration_seconds": 1094.929841,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   },
   {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-04-26-green-shielding-a-framework-for-user-level-query-variation-in-medical-ai.mp3",
@@ -15,7 +18,10 @@
     "pub_date_iso": "2026-04-26T03:54:42.603449+00:00",
     "audio_path": "episodes/2026-04-26-green-shielding-a-framework-for-user-level-query-variation-in-medical-ai.mp3",
     "audio_size_bytes": 9009990,
-    "duration_seconds": 1126.163447
+    "duration_seconds": 1126.163447,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   },
   {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-08-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-neural-diff.mp3",
@@ -24,7 +30,10 @@
     "pub_date_iso": "2026-05-08T12:37:24.108870+00:00",
     "audio_path": "episodes/2026-05-08-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-neural-diff.mp3",
     "audio_size_bytes": 10977741,
-    "duration_seconds": 1372.132834
+    "duration_seconds": 1372.132834,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   },
   {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-08-quick-take-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-.mp3",
@@ -33,6 +42,21 @@
     "pub_date_iso": "2026-05-08T12:37:25.108870+00:00",
     "audio_path": "episodes/2026-05-08-quick-take-predicting-the-impact-of-treatments-over-time-with-uncertainty-aware-.mp3",
     "audio_size_bytes": 1686300,
-    "duration_seconds": 210.682313
+    "duration_seconds": 210.682313,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-26-boosting-data-analytics-with-synthetic-volume-expansion.mp3",
+    "title": "Boosting Data Analytics with Synthetic Volume Expansion",
+    "description": "Synthetic data generation has become a cornerstone of modern data science, promising a way to address both data scarcity and privacy concerns simultaneously. This paper asks a precise question: can high-fidelity synthetic data actually make statistical methods more accurate \u2014 and if so, how much synthetic data should you use?",
+    "pub_date_iso": "2026-05-26T15:13:27.930967+00:00",
+    "audio_path": "episodes/2026-05-26-boosting-data-analytics-with-synthetic-volume-expansion.mp3",
+    "audio_size_bytes": 14219642,
+    "duration_seconds": 1777.366848,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
