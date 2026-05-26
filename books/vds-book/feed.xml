@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veridical Data Science (audiobook)</title>
+    <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
+    <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2026 14:38:19 +0000</lastBuildDate>
+    <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+    <itunes:owner>
+      <itunes:name>Bin Yu and Rebecca Barter</itunes:name>
+      <itunes:email>sean.shihao.yang@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/cover.jpg"/>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Quick Take — Veridical Data Science (audiobook)</title>
+      <description>This book is about practicing data science in a way that is genuinely trustworthy. The central argument is that getting useful, reliable results from data requires more than applying algorithms — it requires critical thinking, domain knowledge, and a principled framework for evaluating whether your results hold up. The authors call this veridical, meaning truthful, data science.</description>
+      <pubDate>Tue, 26 May 2026 14:37:48 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/00-quicktake.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/00-quicktake.mp3" length="1742933" type="audio/mpeg"/>
+      <itunes:duration>3:38</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>Trailer</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

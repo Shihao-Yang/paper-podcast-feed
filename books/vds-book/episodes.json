@@ -1,0 +1,14 @@
+[
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/00-quicktake.mp3",
+    "title": "Quick Take \u2014 Veridical Data Science (audiobook)",
+    "description": "This book is about practicing data science in a way that is genuinely trustworthy. The central argument is that getting useful, reliable results from data requires more than applying algorithms \u2014 it requires critical thinking, domain knowledge, and a principled framework for evaluating whether your results hold up. The authors call this veridical, meaning truthful, data science.",
+    "pub_date_iso": "2026-05-26T14:37:48.140640+00:00",
+    "audio_path": "episodes/00-quicktake.mp3",
+    "audio_size_bytes": 1742933,
+    "duration_seconds": 217.76381,
+    "season": 1,
+    "episode_number": null,
+    "episode_type": "Trailer"
+  }
+]

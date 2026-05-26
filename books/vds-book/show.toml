@@ -1,0 +1,35 @@
+# Veridical Data Science — book feed manifest.
+# Edited by hand; the `paper-podcast book vds-book` CLI uses this to fetch
+# each chapter URL, generate scripts, synthesize audio, and append episodes
+# to feed.xml in this directory.
+
+[show]
+slug = "vds-book"
+title = "Veridical Data Science (audiobook)"
+description = "AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license."
+author = "Bin Yu and Rebecca Barter"
+language = "en-us"
+itunes_type = "serial"
+category = "Education"
+subcategory = "Courses"
+cover_filename = "cover.jpg"
+# Which chapter to use as the document basis for the Quick Take trailer.
+quicktake_source = 1
+
+[chapters]
+list = [
+    { number = 1,  title = "An Introduction to Veridical Data Science",     url = "https://vdsbook.com/01-veridical_ds" },
+    { number = 2,  title = "The Data Science Life Cycle",                   url = "https://vdsbook.com/02-dslc" },
+    { number = 3,  title = "Setting Up Your Data Science Project",          url = "https://vdsbook.com/03-code_reproducibility" },
+    { number = 4,  title = "Data Preparation",                              url = "https://vdsbook.com/04-data_cleaning" },
+    { number = 5,  title = "Exploratory Data Analysis",                     url = "https://vdsbook.com/05-data_viz" },
+    { number = 6,  title = "Principal Component Analysis",                  url = "https://vdsbook.com/06-pca" },
+    { number = 7,  title = "Clustering",                                    url = "https://vdsbook.com/07-cluster" },
+    { number = 8,  title = "An Introduction to Prediction Problems",        url = "https://vdsbook.com/08-prediction_intro" },
+    { number = 9,  title = "Continuous Responses and Least Squares",        url = "https://vdsbook.com/09-ls" },
+    { number = 10, title = "Extending the Least Squares Algorithm",         url = "https://vdsbook.com/10-ls_continued" },
+    { number = 11, title = "Binary Responses and Logistic Regression",      url = "https://vdsbook.com/11-ls_binary" },
+    { number = 12, title = "Decision Trees and the Random Forest Algorithm", url = "https://vdsbook.com/12-rf" },
+    { number = 13, title = "Producing the Final Prediction Results",        url = "https://vdsbook.com/13-final_ml" },
+    { number = 14, title = "Conclusion",                                    url = "https://vdsbook.com/14-conclusion" },
+]
