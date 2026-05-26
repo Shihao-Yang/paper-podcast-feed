@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 21:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:45:00 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -32,19 +32,6 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>Trailer</itunes:episodeType>
-    </item>
-    <item>
-      <title>Ch. 3 — Setting Up Your Data Science Project</title>
-      <description>In this chapter, we step back from the analytical substance of data science and look at the scaffolding around it — how you structure your files, write and document your code, and organize your workflow so that your results are reproducible and your project remains intelligible to collaborators and to your future self. The ideas here draw directly on the data science life cycle and the predictability, computability, and stability framework introduced earlier in the book.</description>
-      <pubDate>Tue, 26 May 2026 14:55:20 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-03-setting-up-your-data-science-project.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-03-setting-up-your-data-science-project.mp3" length="9583639" type="audio/mpeg"/>
-      <itunes:duration>19:58</itunes:duration>
-      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
     </item>
     <item>
       <title>Ch. 4 — Data Preparation</title>
@@ -213,6 +200,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 3 — Setting Up Your Data Science Project</title>
+      <description>In this chapter, we will briefly introduce some software principles that will come in handy when it comes to practicing data science. While the technical focus of data science is often on writing code itself, you also need to provide a sensible structure to your data files, analyses, and documentation so your results will be reproducible and your analyses will be as unambiguous as possible.</description>
+      <pubDate>Tue, 26 May 2026 21:34:16 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-03-setting-up-your-data-science-project.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-03-setting-up-your-data-science-project.mp3" length="19014470" type="audio/mpeg"/>
+      <itunes:duration>39:37</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>
