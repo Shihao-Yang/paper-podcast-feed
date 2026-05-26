@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/</link>
     <description>AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 21:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:32:49 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
     <itunes:owner>
@@ -32,19 +32,6 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>Trailer</itunes:episodeType>
-    </item>
-    <item>
-      <title>Ch. 1 — Summary</title>
-      <description>Statistics is the science through which data become wisdom. Scientific and engineering progress is driven by statistical innovation, and the field continues to evolve through reciprocal interaction with scientific discovery. With the influx of computing capacity, proliferation and interoperability of data, and the availability of increasingly complex modeling, the statistical landscape is shifting in ways that will transform its demands and broaden its contributions. This report illustrates the role of statistics as a key element of science and engineering progress, and presents selected key findings, conclusions, and recommendations that underscore the report's main message.</description>
-      <pubDate>Tue, 26 May 2026 20:12:15 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-01-summary.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/ch-01-summary.mp3" length="16072664" type="audio/mpeg"/>
-      <itunes:duration>33:29</itunes:duration>
-      <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
     </item>
     <item>
       <title>Ch. 1 — Summary</title>
