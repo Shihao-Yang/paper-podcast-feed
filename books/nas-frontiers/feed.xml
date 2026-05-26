@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/</link>
     <description>AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 20:43:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 20:59:40 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
     <itunes:owner>
@@ -70,6 +70,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 3 — Statistics: A Snapshot of a Dynamic Field</title>
+      <description>The field of statistics is broad. Advances in the field often fall into one or more of three categories: theoretical, methodological, or applied. Individual research statisticians often seamlessly move between the categories with significant contributions across the spectrum.</description>
+      <pubDate>Tue, 26 May 2026 20:44:09 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-03-statistics-a-snapshot-of-a-dynamic-field.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/ch-03-statistics-a-snapshot-of-a-dynamic-field.mp3" length="40821490" type="audio/mpeg"/>
+      <itunes:duration>1:25:03</itunes:duration>
+      <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>

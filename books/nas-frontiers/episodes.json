@@ -46,5 +46,17 @@
     "season": 1,
     "episode_number": 2,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-03-statistics-a-snapshot-of-a-dynamic-field.mp3",
+    "title": "Ch. 3 \u2014 Statistics: A Snapshot of a Dynamic Field",
+    "description": "The field of statistics is broad. Advances in the field often fall into one or more of three categories: theoretical, methodological, or applied. Individual research statisticians often seamlessly move between the categories with significant contributions across the spectrum.",
+    "pub_date_iso": "2026-05-26T20:44:09.253439+00:00",
+    "audio_path": "episodes/ch-03-statistics-a-snapshot-of-a-dynamic-field.mp3",
+    "audio_size_bytes": 40821490,
+    "duration_seconds": 5102.578458,
+    "season": 1,
+    "episode_number": 3,
+    "episode_type": "Full"
   }
 ]
