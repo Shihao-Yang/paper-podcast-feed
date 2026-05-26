@@ -94,5 +94,17 @@
     "season": 1,
     "episode_number": 6,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-07-statistics-education-training-and-workforce-development.mp3",
+    "title": "Ch. 7 \u2014 Statistics Education, Training, and Workforce Development",
+    "description": "As statistics enters an era shaped by the rise of artificial intelligence and progressively interconnected or interoperable data products, statisticians must critically view, evaluate, and expand the frontiers of statistics education and workforce development to support and enhance the dynamic theoretical, methodological, and collaborative frontiers detailed in the preceding chapters. Statistics must continue to modernize its talent pipeline by equipping a workforce to handle evolving data and to confront the questions that result from this evolution. At the same time, a clear need exists to expand data literacy and data acumen in the professional workforce and in the general public. Statistics is well positioned to lead these efforts and advance statistical thinking as data increasingly inform decision making in science and engineering. Such statistical thinking helps people accurately interpret, trust, and effectively employ autonomous tools based on data, algorithms, and machine learning.",
+    "pub_date_iso": "2026-05-26T20:48:09.253439+00:00",
+    "audio_path": "episodes/ch-07-statistics-education-training-and-workforce-development.mp3",
+    "audio_size_bytes": 21917405,
+    "duration_seconds": 2739.575918,
+    "season": 1,
+    "episode_number": 7,
+    "episode_type": "Full"
   }
 ]
