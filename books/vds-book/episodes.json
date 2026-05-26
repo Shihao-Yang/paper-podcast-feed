@@ -12,18 +12,6 @@
     "episode_type": "Trailer"
   },
   {
-    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-14-conclusion.mp3",
-    "title": "Ch. 14 \u2014 Conclusion",
-    "description": "Whether you arrived here by skipping ahead or you read every single word of this book, you have now made it to the end. This final chapter brings the book to a close with a recap of its primary themes and takeaway messages.",
-    "pub_date_iso": "2026-05-26T15:06:20.219901+00:00",
-    "audio_path": "episodes/ch-14-conclusion.mp3",
-    "audio_size_bytes": 5148047,
-    "duration_seconds": 643.418549,
-    "season": 1,
-    "episode_number": 14,
-    "episode_type": "Full"
-  },
-  {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-01-an-introduction-to-veridical-data-science.mp3",
     "title": "Ch. 1 \u2014 An Introduction to Veridical Data Science",
     "description": "To practice veridical data science is to practice \"truthful\" data science. The goal of veridical data science is to answer real-world questions by collecting and critically evaluating relevant empirical, that is, data-driven, evidence using human judgment calls in the context of domain knowledge. If the empirical evidence is deemed sufficiently trustworthy, it is communicated to domain stakeholders, where it can play a role in real-world decision making and updating domain knowledge.",
@@ -177,6 +165,18 @@
     "duration_seconds": 3301.476417,
     "season": 1,
     "episode_number": 13,
+    "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-14-conclusion.mp3",
+    "title": "Ch. 14 \u2014 Conclusion",
+    "description": "Whether you arrived here by skipping ahead or you dedicatedly read every single word of this book, congratulations on making it to the end. It's now time to bring this book to a close, with a summary of the primary themes and takeaway messages that we hope you have now embraced after finishing this book.",
+    "pub_date_iso": "2026-05-26T21:45:16.303534+00:00",
+    "audio_path": "episodes/ch-14-conclusion.mp3",
+    "audio_size_bytes": 7963629,
+    "duration_seconds": 995.363401,
+    "season": 1,
+    "episode_number": 14,
     "episode_type": "Full"
   }
 ]
