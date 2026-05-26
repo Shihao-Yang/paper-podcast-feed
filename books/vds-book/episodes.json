@@ -142,5 +142,17 @@
     "season": 1,
     "episode_number": 11,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3",
+    "title": "Ch. 12 \u2014 Decision Trees and the Random Forest Algorithm",
+    "description": "The previous chapters introduced algorithms like Least Squares and logistic regression for generating predictions of continuous and binary responses. While these traditional predictive algorithms remain widely used, the modern data science toolbox also typically includes several nonlinear predictive algorithms. The primary example this chapter focuses on is the Random Forest algorithm, which uses decision trees to generate predictions. Other algorithms you are likely to encounter \u2014 Support Vector Machines, Kernel Ridge Regression, and Neural Networks \u2014 are not covered here, but classic references exist for those who want to explore them further.",
+    "pub_date_iso": "2026-05-26T15:04:20.219901+00:00",
+    "audio_path": "episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3",
+    "audio_size_bytes": 12533595,
+    "duration_seconds": 1566.596689,
+    "season": 1,
+    "episode_number": 12,
+    "episode_type": "Full"
   }
 ]
