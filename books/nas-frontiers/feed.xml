@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/</link>
     <description>AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 21:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:19:21 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
     <itunes:owner>
@@ -109,6 +109,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 6 — Statistical Innovations That Enable New Scientific and Technological Advances</title>
+      <description>This chapter examines how statistical sciences facilitate scientific and technological innovation and how emerging technologies are reshaping the landscape of statistics. An earlier chapter described the life cycle of statistical innovation. Another explored how data and data collection are changing. Yet another highlighted successful examples of collaboration between statistics and domains within science and engineering. This chapter connects and expands these points by proposing that these changes in the nature of data, how data are collected, and how researchers collaborate to understand these data are both drivers and products of technological advancement. This self-reinforcing cycle also drives and, crucially, is driven by statistical advancements. The collection of the many ways statisticians explore, model, visualize, interpret, and understand data represents an inherent and crucial part of technological advancement. Such "data-driven innovation" is explicitly addressed in the Organisation for Economic Co-operation and Development's report Data-Driven Innovation: Big Data for Growth and Well-Being.</description>
+      <pubDate>Tue, 26 May 2026 20:47:09 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-06-statistical-innovations-that-enable-new-scientific-and-techn.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/ch-06-statistical-innovations-that-enable-new-scientific-and-techn.mp3" length="28581973" type="audio/mpeg"/>
+      <itunes:duration>59:33</itunes:duration>
+      <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>
