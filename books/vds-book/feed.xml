@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 15:15:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:17:46 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -135,6 +135,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 9 — Continuous Responses and Least Squares</title>
+      <description>This chapter introduces two algorithms for predicting continuous responses, using the Ames house price prediction project as the running example. The goal of that project is to predict the sale price of houses in Ames, Iowa, for the year 2011. The two algorithms — Least Absolute Deviation and Least Squares — both aim to quantify the linear relationship between a response variable and one or more predictor variables. Before getting into the mechanics of how those lines are computed, it helps to start visually, to build an intuition for what a linear relationship looks like in data.</description>
+      <pubDate>Tue, 26 May 2026 15:01:20 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-09-continuous-responses-and-least-squares.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-09-continuous-responses-and-least-squares.mp3" length="11674479" type="audio/mpeg"/>
+      <itunes:duration>24:19</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>

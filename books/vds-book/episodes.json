@@ -106,5 +106,17 @@
     "season": 1,
     "episode_number": 8,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-09-continuous-responses-and-least-squares.mp3",
+    "title": "Ch. 9 \u2014 Continuous Responses and Least Squares",
+    "description": "This chapter introduces two algorithms for predicting continuous responses, using the Ames house price prediction project as the running example. The goal of that project is to predict the sale price of houses in Ames, Iowa, for the year 2011. The two algorithms \u2014 Least Absolute Deviation and Least Squares \u2014 both aim to quantify the linear relationship between a response variable and one or more predictor variables. Before getting into the mechanics of how those lines are computed, it helps to start visually, to build an intuition for what a linear relationship looks like in data.",
+    "pub_date_iso": "2026-05-26T15:01:20.219901+00:00",
+    "audio_path": "episodes/ch-09-continuous-responses-and-least-squares.mp3",
+    "audio_size_bytes": 11674479,
+    "duration_seconds": 1459.204399,
+    "season": 1,
+    "episode_number": 9,
+    "episode_type": "Full"
   }
 ]
