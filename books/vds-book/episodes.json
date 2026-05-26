@@ -70,5 +70,17 @@
     "season": 1,
     "episode_number": 5,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-06-principal-component-analysis.mp3",
+    "title": "Ch. 6 \u2014 Principal Component Analysis",
+    "description": "Answering sophisticated domain questions often involves data that is high-dimensional \u2014 data containing a large number of variables. A vivid example is biological gene expression data, which quantifies how actively each gene in the genome is being expressed. Since every person has more than 20,000 genes, every person's gene expression profile is itself a vector of more than 20,000 numbers. The question of how to explore relationships and interactions across 20,000 variables at once is not a simple one. Most of the visualization techniques we rely on \u2014 histograms, scatterplots \u2014 are designed for examining a few variables at a time and break down entirely at this scale. And it is not only visualization that struggles. Many analytic methods, including predictive models, perform poorly or fail outright when there are more variables than observations.",
+    "pub_date_iso": "2026-05-26T14:58:20.219901+00:00",
+    "audio_path": "episodes/ch-06-principal-component-analysis.mp3",
+    "audio_size_bytes": 19432011,
+    "duration_seconds": 2428.904535,
+    "season": 1,
+    "episode_number": 6,
+    "episode_type": "Full"
   }
 ]
