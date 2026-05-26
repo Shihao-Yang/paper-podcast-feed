@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 22:57:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:05:42 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -32,19 +32,6 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>Trailer</itunes:episodeType>
-    </item>
-    <item>
-      <title>Ch. 11 — Binary Responses and Logistic Regression</title>
-      <description>So far in our exploration of prediction, we have dealt only with continuous response variables — things like house prices that can take any value along a numeric range. But many of the most practically important prediction problems in data science involve a response that takes only one of two possible values: yes or no, purchase or no purchase, disease or no disease. These are called binary responses, and the class that each observation belongs to is its class label. When we build a predictive algorithm for a binary response, we are doing classification — assigning each new observation to one of the two categories. To ground this in something concrete, the chapter introduces a running project: predicting whether a user session on an e-commerce website will end in a purchase.</description>
-      <pubDate>Tue, 26 May 2026 15:03:20 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-11-binary-responses-and-logistic-regression.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-11-binary-responses-and-logistic-regression.mp3" length="16143926" type="audio/mpeg"/>
-      <itunes:duration>33:38</itunes:duration>
-      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>11</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
     </item>
     <item>
       <title>Ch. 12 — Decision Trees and the Random Forest Algorithm</title>
@@ -213,6 +200,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 11 — Binary Responses and Logistic Regression</title>
+      <description>In our prediction problems so far, we have only considered problems that involve predicting a continuous response — house price is a continuous variable that can take a range of numeric values. However, many prediction problems in data science involve instead predicting a binary response, where each observation's response falls into one of two categories, such as "yes" or "no." A binary response is often referred to as the class label of the observation. Prediction problems with binary responses are often called classification problems because they involve classifying each observation as belonging to one of the two classes.</description>
+      <pubDate>Tue, 26 May 2026 21:42:16 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-11-binary-responses-and-logistic-regression.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-11-binary-responses-and-logistic-regression.mp3" length="36962891" type="audio/mpeg"/>
+      <itunes:duration>1:17:00</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>

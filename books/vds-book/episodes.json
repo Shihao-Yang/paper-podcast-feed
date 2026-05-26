@@ -12,18 +12,6 @@
     "episode_type": "Trailer"
   },
   {
-    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-11-binary-responses-and-logistic-regression.mp3",
-    "title": "Ch. 11 \u2014 Binary Responses and Logistic Regression",
-    "description": "So far in our exploration of prediction, we have dealt only with continuous response variables \u2014 things like house prices that can take any value along a numeric range. But many of the most practically important prediction problems in data science involve a response that takes only one of two possible values: yes or no, purchase or no purchase, disease or no disease. These are called binary responses, and the class that each observation belongs to is its class label. When we build a predictive algorithm for a binary response, we are doing classification \u2014 assigning each new observation to one of the two categories. To ground this in something concrete, the chapter introduces a running project: predicting whether a user session on an e-commerce website will end in a purchase.",
-    "pub_date_iso": "2026-05-26T15:03:20.219901+00:00",
-    "audio_path": "episodes/ch-11-binary-responses-and-logistic-regression.mp3",
-    "audio_size_bytes": 16143926,
-    "duration_seconds": 2017.883265,
-    "season": 1,
-    "episode_number": 11,
-    "episode_type": "Full"
-  },
-  {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3",
     "title": "Ch. 12 \u2014 Decision Trees and the Random Forest Algorithm",
     "description": "The previous chapters introduced algorithms like Least Squares and logistic regression for generating predictions of continuous and binary responses. While these traditional predictive algorithms remain widely used, the modern data science toolbox also typically includes several nonlinear predictive algorithms. The primary example this chapter focuses on is the Random Forest algorithm, which uses decision trees to generate predictions. Other algorithms you are likely to encounter \u2014 Support Vector Machines, Kernel Ridge Regression, and Neural Networks \u2014 are not covered here, but classic references exist for those who want to explore them further.",
@@ -177,6 +165,18 @@
     "duration_seconds": 4127.188798,
     "season": 1,
     "episode_number": 10,
+    "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-11-binary-responses-and-logistic-regression.mp3",
+    "title": "Ch. 11 \u2014 Binary Responses and Logistic Regression",
+    "description": "In our prediction problems so far, we have only considered problems that involve predicting a continuous response \u2014 house price is a continuous variable that can take a range of numeric values. However, many prediction problems in data science involve instead predicting a binary response, where each observation's response falls into one of two categories, such as \"yes\" or \"no.\" A binary response is often referred to as the class label of the observation. Prediction problems with binary responses are often called classification problems because they involve classifying each observation as belonging to one of the two classes.",
+    "pub_date_iso": "2026-05-26T21:42:16.303534+00:00",
+    "audio_path": "episodes/ch-11-binary-responses-and-logistic-regression.mp3",
+    "audio_size_bytes": 36962891,
+    "duration_seconds": 4620.276145,
+    "season": 1,
+    "episode_number": 11,
     "episode_type": "Full"
   }
 ]
