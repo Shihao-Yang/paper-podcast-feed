@@ -12,18 +12,6 @@
     "episode_type": "Trailer"
   },
   {
-    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-07-clustering.mp3",
-    "title": "Ch. 7 \u2014 Clustering",
-    "description": "In the previous chapter, we used principal component analysis to create simplified representations of our data by summarizing and aggregating the variables \u2014 the columns. In this chapter, we shift focus from variables to observations, meaning the rows. Our goal is to identify reasonable clusters of observations, and we will introduce several unsupervised learning algorithms that can help us achieve this.",
-    "pub_date_iso": "2026-05-26T14:59:20.219901+00:00",
-    "audio_path": "episodes/ch-07-clustering.mp3",
-    "audio_size_bytes": 18766620,
-    "duration_seconds": 2345.742268,
-    "season": 1,
-    "episode_number": 7,
-    "episode_type": "Full"
-  },
-  {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-08-an-introduction-to-prediction-problems.mp3",
     "title": "Ch. 8 \u2014 An Introduction to Prediction Problems",
     "description": "So far in Veridical Data Science, the focus has been on understanding the structure of data \u2014 summarizing patterns, reducing dimensions, finding clusters. Part three of the book shifts gears entirely, turning attention to prediction problems, which sit at the heart of both traditional statistics and machine learning.",
@@ -177,6 +165,18 @@
     "duration_seconds": 4595.918413,
     "season": 1,
     "episode_number": 6,
+    "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-07-clustering.mp3",
+    "title": "Ch. 7 \u2014 Clustering",
+    "description": "In the previous chapter, we used principal component analysis to create simplified low-dimensional representations of our data by summarizing and aggregating the variables, or columns. In this chapter, we will shift our focus from the variables, or columns, of the data to the observations, or rows. Specifically, our goal in this chapter is to identify reasonable clusters of observations, and we will introduce several unsupervised learning clustering algorithms that can help us achieve this goal.",
+    "pub_date_iso": "2026-05-26T21:38:16.303534+00:00",
+    "audio_path": "episodes/ch-07-clustering.mp3",
+    "audio_size_bytes": 44749053,
+    "duration_seconds": 5593.540544,
+    "season": 1,
+    "episode_number": 7,
     "episode_type": "Full"
   }
 ]
