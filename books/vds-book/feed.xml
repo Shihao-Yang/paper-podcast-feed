@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 15:08:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:12:20 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -109,6 +109,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 7 — Clustering</title>
+      <description>In the previous chapter, we used principal component analysis to create simplified representations of our data by summarizing and aggregating the variables — the columns. In this chapter, we shift focus from variables to observations, meaning the rows. Our goal is to identify reasonable clusters of observations, and we will introduce several unsupervised learning algorithms that can help us achieve this.</description>
+      <pubDate>Tue, 26 May 2026 14:59:20 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-07-clustering.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-07-clustering.mp3" length="18766620" type="audio/mpeg"/>
+      <itunes:duration>39:06</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>

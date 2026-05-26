@@ -82,5 +82,17 @@
     "season": 1,
     "episode_number": 6,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-07-clustering.mp3",
+    "title": "Ch. 7 \u2014 Clustering",
+    "description": "In the previous chapter, we used principal component analysis to create simplified representations of our data by summarizing and aggregating the variables \u2014 the columns. In this chapter, we shift focus from variables to observations, meaning the rows. Our goal is to identify reasonable clusters of observations, and we will introduce several unsupervised learning algorithms that can help us achieve this.",
+    "pub_date_iso": "2026-05-26T14:59:20.219901+00:00",
+    "audio_path": "episodes/ch-07-clustering.mp3",
+    "audio_size_bytes": 18766620,
+    "duration_seconds": 2345.742268,
+    "season": 1,
+    "episode_number": 7,
+    "episode_type": "Full"
   }
 ]
