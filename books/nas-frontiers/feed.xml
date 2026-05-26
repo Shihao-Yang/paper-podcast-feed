@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/</link>
     <description>AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 20:39:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 20:43:03 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
     <itunes:owner>
@@ -57,6 +57,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 2 — Introduction</title>
+      <description>The frontiers of statistics are dynamic and constantly evolving to meet the shifting needs of science and engineering. Rooted in the pursuit of finding practical solutions to real-world challenges, the discipline brings insight and wisdom through observations and experiments. Throughout history, statistics has been a catalyst for innovation across scientific endeavors. Examples from the 20th century alone include advancement in precision agriculture that increases yields and improves efficiency of land use; pioneering design, implementation, and analysis of human clinical trials for effective and safe medical treatments; groundbreaking analyses of observational data linking the hazards of smoking and the benefits of healthy diet and exercise; and breakthroughs in statistical process control to optimize production and minimize waste in industry.</description>
+      <pubDate>Tue, 26 May 2026 20:43:09 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-02-introduction.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/ch-02-introduction.mp3" length="8302803" type="audio/mpeg"/>
+      <itunes:duration>17:18</itunes:duration>
+      <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>
