@@ -46,5 +46,17 @@
     "season": 1,
     "episode_number": 3,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-04-data-preparation.mp3",
+    "title": "Ch. 4 \u2014 Data Preparation",
+    "description": "Every data science project begins with a question and a dataset, but rarely does the dataset arrive ready to use. The chapter opens with a concrete image: you are a journalist, or perhaps a researcher, trying to understand organ donation rates around the world. Before you can answer any question about trends or rankings, you need to confront the data itself \u2014 its inconsistencies, its missing entries, its inconvenient formatting. That confrontation is the subject of this chapter.",
+    "pub_date_iso": "2026-05-26T14:56:20.219901+00:00",
+    "audio_path": "episodes/ch-04-data-preparation.mp3",
+    "audio_size_bytes": 12849363,
+    "duration_seconds": 1606.070612,
+    "season": 1,
+    "episode_number": 4,
+    "episode_type": "Full"
   }
 ]
