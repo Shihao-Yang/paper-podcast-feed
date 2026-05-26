@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 21:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:53:38 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -32,19 +32,6 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>Trailer</itunes:episodeType>
-    </item>
-    <item>
-      <title>Ch. 4 — Data Preparation</title>
-      <description>Every data science project begins with a question and a dataset, but rarely does the dataset arrive ready to use. The chapter opens with a concrete image: you are a journalist, or perhaps a researcher, trying to understand organ donation rates around the world. Before you can answer any question about trends or rankings, you need to confront the data itself — its inconsistencies, its missing entries, its inconvenient formatting. That confrontation is the subject of this chapter.</description>
-      <pubDate>Tue, 26 May 2026 14:56:20 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-04-data-preparation.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-04-data-preparation.mp3" length="12849363" type="audio/mpeg"/>
-      <itunes:duration>26:46</itunes:duration>
-      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
     </item>
     <item>
       <title>Ch. 5 — Exploratory Data Analysis</title>
@@ -213,6 +200,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 4 — Data Preparation</title>
+      <description>Every data science project arises from a real-world question whose answer is believed to lie, in part, within some data that either has been or will be collected. Perhaps your question is: which house should I buy? To answer this question, you might plan to analyze some data containing information on recent housing sales in your city, where, for each house sale, the data might contain information including how large the house is, what kind of condition it is in, when the house was sold, and how much the house sold for. Your eventual decision about which house to buy might then be based on a combination of your analysis of this data and your domain knowledge about houses and the city in which you live, and your preferences, of course.</description>
+      <pubDate>Tue, 26 May 2026 21:35:16 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-04-data-preparation.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-04-data-preparation.mp3" length="32789986" type="audio/mpeg"/>
+      <itunes:duration>1:08:19</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>

@@ -12,18 +12,6 @@
     "episode_type": "Trailer"
   },
   {
-    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-04-data-preparation.mp3",
-    "title": "Ch. 4 \u2014 Data Preparation",
-    "description": "Every data science project begins with a question and a dataset, but rarely does the dataset arrive ready to use. The chapter opens with a concrete image: you are a journalist, or perhaps a researcher, trying to understand organ donation rates around the world. Before you can answer any question about trends or rankings, you need to confront the data itself \u2014 its inconsistencies, its missing entries, its inconvenient formatting. That confrontation is the subject of this chapter.",
-    "pub_date_iso": "2026-05-26T14:56:20.219901+00:00",
-    "audio_path": "episodes/ch-04-data-preparation.mp3",
-    "audio_size_bytes": 12849363,
-    "duration_seconds": 1606.070612,
-    "season": 1,
-    "episode_number": 4,
-    "episode_type": "Full"
-  },
-  {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-05-exploratory-data-analysis.mp3",
     "title": "Ch. 5 \u2014 Exploratory Data Analysis",
     "description": "Since our eyes and brains are not wired to detect patterns in large tables filled with text and numbers, we almost never communicate data-driven results by simply handing someone the raw data. Instead, we summarize it \u2014 using a mean, a table, a chart \u2014 so that shape, distance, color, and size can do the work of conveying magnitude and relationship.",
@@ -177,6 +165,18 @@
     "duration_seconds": 2376.706077,
     "season": 1,
     "episode_number": 3,
+    "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-04-data-preparation.mp3",
+    "title": "Ch. 4 \u2014 Data Preparation",
+    "description": "Every data science project arises from a real-world question whose answer is believed to lie, in part, within some data that either has been or will be collected. Perhaps your question is: which house should I buy? To answer this question, you might plan to analyze some data containing information on recent housing sales in your city, where, for each house sale, the data might contain information including how large the house is, what kind of condition it is in, when the house was sold, and how much the house sold for. Your eventual decision about which house to buy might then be based on a combination of your analysis of this data and your domain knowledge about houses and the city in which you live, and your preferences, of course.",
+    "pub_date_iso": "2026-05-26T21:35:16.303534+00:00",
+    "audio_path": "episodes/ch-04-data-preparation.mp3",
+    "audio_size_bytes": 32789986,
+    "duration_seconds": 4098.663084,
+    "season": 1,
+    "episode_number": 4,
     "episode_type": "Full"
   }
 ]
