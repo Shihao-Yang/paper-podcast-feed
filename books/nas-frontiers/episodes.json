@@ -70,5 +70,17 @@
     "season": 1,
     "episode_number": 4,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-05-statistics-across-the-spectrum.mp3",
+    "title": "Ch. 5 \u2014 Statistics Across the Spectrum",
+    "description": "Figure 4-1. Statistics: The core of data-driven scientific progress. The figure shows a circular diagram with Statistics at the center, surrounded by three interlocking sectors labeled Medicine, Engineering, and Science, with icons representing each domain arranged around the outer ring.",
+    "pub_date_iso": "2026-05-26T20:46:09.253439+00:00",
+    "audio_path": "episodes/ch-05-statistics-across-the-spectrum.mp3",
+    "audio_size_bytes": 20466460,
+    "duration_seconds": 2558.204853,
+    "season": 1,
+    "episode_number": 5,
+    "episode_type": "Full"
   }
 ]

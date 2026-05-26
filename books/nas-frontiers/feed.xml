@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/</link>
     <description>AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 21:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:12:09 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
     <itunes:owner>
@@ -96,6 +96,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 5 — Statistics Across the Spectrum</title>
+      <description>Figure 4-1. Statistics: The core of data-driven scientific progress. The figure shows a circular diagram with Statistics at the center, surrounded by three interlocking sectors labeled Medicine, Engineering, and Science, with icons representing each domain arranged around the outer ring.</description>
+      <pubDate>Tue, 26 May 2026 20:46:09 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-05-statistics-across-the-spectrum.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/ch-05-statistics-across-the-spectrum.mp3" length="20466460" type="audio/mpeg"/>
+      <itunes:duration>42:38</itunes:duration>
+      <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>
