@@ -12,18 +12,6 @@
     "episode_type": "Trailer"
   },
   {
-    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-05-exploratory-data-analysis.mp3",
-    "title": "Ch. 5 \u2014 Exploratory Data Analysis",
-    "description": "Since our eyes and brains are not wired to detect patterns in large tables filled with text and numbers, we almost never communicate data-driven results by simply handing someone the raw data. Instead, we summarize it \u2014 using a mean, a table, a chart \u2014 so that shape, distance, color, and size can do the work of conveying magnitude and relationship.",
-    "pub_date_iso": "2026-05-26T14:57:20.219901+00:00",
-    "audio_path": "episodes/ch-05-exploratory-data-analysis.mp3",
-    "audio_size_bytes": 14364883,
-    "duration_seconds": 1795.510612,
-    "season": 1,
-    "episode_number": 5,
-    "episode_type": "Full"
-  },
-  {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-06-principal-component-analysis.mp3",
     "title": "Ch. 6 \u2014 Principal Component Analysis",
     "description": "Answering sophisticated domain questions often involves data that is high-dimensional \u2014 data containing a large number of variables. A vivid example is biological gene expression data, which quantifies how actively each gene in the genome is being expressed. Since every person has more than 20,000 genes, every person's gene expression profile is itself a vector of more than 20,000 numbers. The question of how to explore relationships and interactions across 20,000 variables at once is not a simple one. Most of the visualization techniques we rely on \u2014 histograms, scatterplots \u2014 are designed for examining a few variables at a time and break down entirely at this scale. And it is not only visualization that struggles. Many analytic methods, including predictive models, perform poorly or fail outright when there are more variables than observations.",
@@ -177,6 +165,18 @@
     "duration_seconds": 4098.663084,
     "season": 1,
     "episode_number": 4,
+    "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-05-exploratory-data-analysis.mp3",
+    "title": "Ch. 5 \u2014 Exploratory Data Analysis",
+    "description": "Since our eyes and brains are not wired to detect patterns in large data tables filled with text and numbers, communication about data and data-driven results rarely comes in the form of raw data or code output. Instead, data and data-driven results are usually either summarized \u2014 for example, using an average or mean \u2014 and presented in small summary tables, or they are presented visually in the form of graphs, in which shape, distance, color, and size can be used to represent the magnitudes of, and relationships between, the values within our data.",
+    "pub_date_iso": "2026-05-26T21:36:16.303534+00:00",
+    "audio_path": "episodes/ch-05-exploratory-data-analysis.mp3",
+    "audio_size_bytes": 29443805,
+    "duration_seconds": 3680.378821,
+    "season": 1,
+    "episode_number": 5,
     "episode_type": "Full"
   }
 ]
