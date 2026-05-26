@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 21:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:40:10 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -32,19 +32,6 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>Trailer</itunes:episodeType>
-    </item>
-    <item>
-      <title>Ch. 2 — The Data Science Life Cycle</title>
-      <description>Every data science project progresses through some combination of six stages. The book calls these stages together the data science life cycle, or DSLC. The six stages, in order, are: first, domain problem formulation and data collection; second, data cleaning, preprocessing, and exploratory data analysis; third, exploration of intrinsic data structures through dimensionality reduction and clustering; fourth, predictive and inferential analysis; fifth, evaluation of results; and sixth, communication of results. Almost every project will pass through stages one, two, five, and six. Stages three and four are optional — whether you need them depends entirely on the question you are asking.</description>
-      <pubDate>Tue, 26 May 2026 14:54:20 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-02-the-data-science-life-cycle.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-02-the-data-science-life-cycle.mp3" length="10920899" type="audio/mpeg"/>
-      <itunes:duration>22:45</itunes:duration>
-      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
     </item>
     <item>
       <title>Ch. 3 — Setting Up Your Data Science Project</title>
@@ -213,6 +200,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 2 — The Data Science Life Cycle</title>
+      <description>Every data science project progresses through some combination of the following stages of the data science life cycle, or DSLC: one, domain problem formulation and data collection; two, data cleaning, preprocessing, and exploratory data analysis; three, exploration of intrinsic data structures, meaning dimensionality reduction and clustering; four, predictive and/or inferential analysis; five, evaluation of results; and six, communication of results.</description>
+      <pubDate>Tue, 26 May 2026 21:33:16 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-02-the-data-science-life-cycle.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-02-the-data-science-life-cycle.mp3" length="16107773" type="audio/mpeg"/>
+      <itunes:duration>33:33</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>
