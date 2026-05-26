@@ -82,5 +82,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-26-quick-take-boosting-data-analytics-with-synthetic-volume-expansion.mp3",
+    "title": "Quick Take \u2014 Boosting Data Analytics with Synthetic Volume Expansion",
+    "description": "The question this paper addresses is whether high-fidelity synthetic data can systematically improve the accuracy of standard statistical methods \u2014 not just as a privacy tool or a data-sharing mechanism, but as a direct performance booster. This is genuinely contested territory: some prior work finds synthetic data helps, other work finds it hurts, and the field has lacked a principled framework for understanding when and why either outcome occurs.",
+    "pub_date_iso": "2026-05-26T15:37:54.487579+00:00",
+    "audio_path": "episodes/2026-05-26-quick-take-boosting-data-analytics-with-synthetic-volume-expansion.mp3",
+    "audio_size_bytes": 1578048,
+    "duration_seconds": 197.167664,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
