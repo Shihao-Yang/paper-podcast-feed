@@ -12,18 +12,6 @@
     "episode_type": "Trailer"
   },
   {
-    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-10-extending-the-least-squares-algorithm.mp3",
-    "title": "Ch. 10 \u2014 Extending the Least Squares Algorithm",
-    "description": "The previous chapter introduced the idea of fitting a straight line to predict house sale prices in Ames, Iowa, using a single feature: the living area of the house. This chapter builds on that foundation in two directions. First, it shows how to incorporate many predictive features at once into a linear fit. Second, it introduces regularization \u2014 a family of techniques that constrain the fit to produce more stable, generalizable predictions. The focus stays on the least-squares algorithm throughout, but nearly everything discussed here applies equally to other linear algorithms.",
-    "pub_date_iso": "2026-05-26T15:02:20.219901+00:00",
-    "audio_path": "episodes/ch-10-extending-the-least-squares-algorithm.mp3",
-    "audio_size_bytes": 16240684,
-    "duration_seconds": 2029.985714,
-    "season": 1,
-    "episode_number": 10,
-    "episode_type": "Full"
-  },
-  {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-11-binary-responses-and-logistic-regression.mp3",
     "title": "Ch. 11 \u2014 Binary Responses and Logistic Regression",
     "description": "So far in our exploration of prediction, we have dealt only with continuous response variables \u2014 things like house prices that can take any value along a numeric range. But many of the most practically important prediction problems in data science involve a response that takes only one of two possible values: yes or no, purchase or no purchase, disease or no disease. These are called binary responses, and the class that each observation belongs to is its class label. When we build a predictive algorithm for a binary response, we are doing classification \u2014 assigning each new observation to one of the two categories. To ground this in something concrete, the chapter introduces a running project: predicting whether a user session on an e-commerce website will end in a purchase.",
@@ -177,6 +165,18 @@
     "duration_seconds": 3330.523764,
     "season": 1,
     "episode_number": 9,
+    "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-10-extending-the-least-squares-algorithm.mp3",
+    "title": "Ch. 10 \u2014 Extending the Least Squares Algorithm",
+    "description": "In the previous chapter, we introduced the idea of using a least squares or LAD fitted line to generate response predictions based on a single predictive feature. This chapter will expand on these ideas by producing predictive linear fits that use multiple predictive features as well as regularized predictive fits with improved stability and generalizability. Note that we will primarily focus on the least squares algorithm in this chapter, but many of the ideas we introduce can be similarly applied to other algorithms, such as the LAD algorithm.",
+    "pub_date_iso": "2026-05-26T21:41:16.303534+00:00",
+    "audio_path": "episodes/ch-10-extending-the-least-squares-algorithm.mp3",
+    "audio_size_bytes": 33018192,
+    "duration_seconds": 4127.188798,
+    "season": 1,
+    "episode_number": 10,
     "episode_type": "Full"
   }
 ]
