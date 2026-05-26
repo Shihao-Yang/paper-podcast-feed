@@ -12,18 +12,6 @@
     "episode_type": "Trailer"
   },
   {
-    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-13-producing-the-final-prediction-results.mp3",
-    "title": "Ch. 13 \u2014 Producing the Final Prediction Results",
-    "description": "The traditional approach to machine learning involves picking the best-performing algorithm from a competition run on a single, fixed version of the cleaned and preprocessed training data. That is its blind spot: it explores algorithmic choices but ignores the uncertainty that comes from the specific version of the data used for training \u2014 all the judgment calls made during cleaning and preprocessing. In the PCS framework, the unit of comparison is not just an algorithm but a predictive fit: the pairing of one algorithm with one particular cleaned and preprocessed training dataset. By generating predictions from many such fits \u2014 spanning a range of algorithms and a range of plausible data-preparation choices \u2014 the framework surfaces the uncertainty that lives not just in the model but in the data pipeline itself.",
-    "pub_date_iso": "2026-05-26T15:05:20.219901+00:00",
-    "audio_path": "episodes/ch-13-producing-the-final-prediction-results.mp3",
-    "audio_size_bytes": 11395910,
-    "duration_seconds": 1424.398503,
-    "season": 1,
-    "episode_number": 13,
-    "episode_type": "Full"
-  },
-  {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-14-conclusion.mp3",
     "title": "Ch. 14 \u2014 Conclusion",
     "description": "Whether you arrived here by skipping ahead or you read every single word of this book, you have now made it to the end. This final chapter brings the book to a close with a recap of its primary themes and takeaway messages.",
@@ -177,6 +165,18 @@
     "duration_seconds": 3112.116871,
     "season": 1,
     "episode_number": 12,
+    "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-13-producing-the-final-prediction-results.mp3",
+    "title": "Ch. 13 \u2014 Producing the Final Prediction Results",
+    "description": "The traditional approach to machine learning involves training a predictive algorithm on just one version of the cleaned and preprocessed training dataset and using the best-performing algorithm, evaluated using the corresponding validation set, to generate the final predictions for future data points. However, while this approach considers alternative algorithms, it does not consider alternative versions of the data used to train the algorithms. Specifically, the traditional ML approach ignores the uncertainty that arises from the specific dataset that was used to train the algorithm, including the judgment calls that we made during cleaning and preprocessing. In contrast, in the predictability, computability, and stability framework, which we call PCS, we train a variety of plausible alternative predictive fits, where each predictive fit corresponds to one particular algorithm trained using one particular version of the cleaned and preprocessed training data.",
+    "pub_date_iso": "2026-05-26T21:44:16.303534+00:00",
+    "audio_path": "episodes/ch-13-producing-the-final-prediction-results.mp3",
+    "audio_size_bytes": 26412556,
+    "duration_seconds": 3301.476417,
+    "season": 1,
+    "episode_number": 13,
     "episode_type": "Full"
   }
 ]
