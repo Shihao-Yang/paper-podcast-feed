@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/</link>
     <description>AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 20:59:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:03:07 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
     <itunes:owner>
@@ -83,6 +83,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 4 — The Changing Nature of Data</title>
+      <description>Data are foundational to science and engineering. The concepts and models relating to data are fundamental to the dynamic intersection of theory and application that drives innovation, refines methodologies, and provides ongoing and bidirectional links between statistics and science and engineering. The very nature of data, both in concept and in practice, is constantly evolving due to changes in measurement technology, interconnectivity, and computing power, and these changes drive the frontiers of the field of statistics.</description>
+      <pubDate>Tue, 26 May 2026 20:45:09 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-04-the-changing-nature-of-data.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/ch-04-the-changing-nature-of-data.mp3" length="14239913" type="audio/mpeg"/>
+      <itunes:duration>29:40</itunes:duration>
+      <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>

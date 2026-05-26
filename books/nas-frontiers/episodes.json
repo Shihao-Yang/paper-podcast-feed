@@ -58,5 +58,17 @@
     "season": 1,
     "episode_number": 3,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-04-the-changing-nature-of-data.mp3",
+    "title": "Ch. 4 \u2014 The Changing Nature of Data",
+    "description": "Data are foundational to science and engineering. The concepts and models relating to data are fundamental to the dynamic intersection of theory and application that drives innovation, refines methodologies, and provides ongoing and bidirectional links between statistics and science and engineering. The very nature of data, both in concept and in practice, is constantly evolving due to changes in measurement technology, interconnectivity, and computing power, and these changes drive the frontiers of the field of statistics.",
+    "pub_date_iso": "2026-05-26T20:45:09.253439+00:00",
+    "audio_path": "episodes/ch-04-the-changing-nature-of-data.mp3",
+    "audio_size_bytes": 14239913,
+    "duration_seconds": 1779.895193,
+    "season": 1,
+    "episode_number": 4,
+    "episode_type": "Full"
   }
 ]
