@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 22:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 22:37:47 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -32,19 +32,6 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>Trailer</itunes:episodeType>
-    </item>
-    <item>
-      <title>Ch. 8 — An Introduction to Prediction Problems</title>
-      <description>So far in Veridical Data Science, the focus has been on understanding the structure of data — summarizing patterns, reducing dimensions, finding clusters. Part three of the book shifts gears entirely, turning attention to prediction problems, which sit at the heart of both traditional statistics and machine learning.</description>
-      <pubDate>Tue, 26 May 2026 15:00:20 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-08-an-introduction-to-prediction-problems.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-08-an-introduction-to-prediction-problems.mp3" length="11588380" type="audio/mpeg"/>
-      <itunes:duration>24:08</itunes:duration>
-      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>8</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
     </item>
     <item>
       <title>Ch. 9 — Continuous Responses and Least Squares</title>
@@ -213,6 +200,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 8 — An Introduction to Prediction Problems</title>
+      <description>So far in this book, our analyses have primarily focused on understanding the underlying structure of our data and summarizing the patterns and relationships it contains. In part three of this book, we will shift gears, turning our attention to prediction problems, a major topic in both traditional statistics and machine learning.</description>
+      <pubDate>Tue, 26 May 2026 21:39:16 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-08-an-introduction-to-prediction-problems.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-08-an-introduction-to-prediction-problems.mp3" length="17879919" type="audio/mpeg"/>
+      <itunes:duration>37:15</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>
