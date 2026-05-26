@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/</link>
     <description>AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 20:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 20:39:05 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
     <itunes:owner>
@@ -40,6 +40,19 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-01-summary.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/ch-01-summary.mp3" length="16072664" type="audio/mpeg"/>
       <itunes:duration>33:29</itunes:duration>
+      <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 1 — Summary</title>
+      <description>Statistics is the science through which data become wisdom. Scientific and engineering progress is driven by statistical innovation, and the field continues to evolve through reciprocal interaction with scientific innovation. With the influx of computing capacity, proliferation and interoperability of data, and availability of increasingly complex modeling, the statistical landscape is shifting in ways that will transform its demands and broaden its contributions. This report illustrates the role of statistics as a key element of science and engineering progress. Recommendations in the report highlight critical areas of stewardship, capacity-building, and investment in the statistical sciences to sustain and expand the field's contributions for U.S. competitiveness. This summary presents selected key findings, conclusions, and recommendations that underscore the report's main message. (Within the body of the report, key findings, conclusions, and recommendations are numbered according to the chapter number and order of appearance. However, selected key findings, conclusions, and recommendations have been included in the Summary in the order that best preserves narrative flow, which may not align with this numbering scheme.)</description>
+      <pubDate>Tue, 26 May 2026 20:32:46 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/ch-01-summary.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/ch-01-summary.mp3" length="18819910" type="audio/mpeg"/>
+      <itunes:duration>39:12</itunes:duration>
       <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
