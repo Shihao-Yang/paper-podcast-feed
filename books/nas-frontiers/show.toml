@@ -1,0 +1,32 @@
+# National Academies consensus study report — book feed manifest.
+# Chapters are page ranges in source.pdf, sliced on demand by paper_podcast/pdf_book.py.
+
+[show]
+slug = "nas-frontiers"
+title = "Frontiers of Statistics in Science and Engineering: 2035 and Beyond"
+description = "AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only."
+author = "National Academies of Sciences, Engineering, and Medicine"
+language = "en-us"
+itunes_type = "serial"
+category = "Science"
+subcategory = "Mathematics"
+cover_filename = "cover.jpg"
+# Chapter to use as the source for the Quick Take trailer.
+quicktake_source = 1
+# Master PDF; per-chapter `pages` ranges below are relative to this file.
+master_pdf = "source.pdf"
+
+[chapters]
+# Page ranges taken from `pdftk source.pdf dump_data` BookmarkPageNumbers, ending
+# one page before the next bookmark. References (158-175) are intentionally skipped.
+list = [
+    { number = 1, title = "Summary",                                                                pages = "18-34" },
+    { number = 2, title = "Introduction",                                                           pages = "35-41" },
+    { number = 3, title = "Statistics: A Snapshot of a Dynamic Field",                              pages = "42-75" },
+    { number = 4, title = "The Changing Nature of Data",                                            pages = "76-86" },
+    { number = 5, title = "Statistics Across the Spectrum",                                         pages = "87-103" },
+    { number = 6, title = "Statistical Innovations That Enable New Scientific and Technological Advances", pages = "104-126" },
+    { number = 7, title = "Statistics Education, Training, and Workforce Development",              pages = "127-144" },
+    { number = 8, title = "Recommendations",                                                        pages = "145-157" },
+    { number = 9, title = "Appendices",                                                             pages = "176-190" },
+]

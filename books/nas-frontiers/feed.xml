@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontiers of Statistics in Science and Engineering: 2035 and Beyond</title>
+    <link>https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/</link>
+    <description>AI-narrated reading of the 2026 National Academies consensus study report by the Committee on the Frontiers of Statistics in Science and Engineering. Personal use only.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2026 20:12:43 +0000</lastBuildDate>
+    <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
+    <itunes:owner>
+      <itunes:name>National Academies of Sciences, Engineering, and Medicine</itunes:name>
+      <itunes:email>sean.shihao.yang@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/cover.jpg"/>
+    <itunes:category text="Science">
+      <itunes:category text="Mathematics"/>
+    </itunes:category>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Quick Take — Frontiers of Statistics in Science and Engineering: 2035 and Beyond</title>
+      <description>This is a consensus report assessing where the field of statistics stands, where its most important frontiers lie, and what investments the United States needs to sustain those frontiers through 2035 and beyond. The central argument is that statistics is a generative force in science and engineering, co-producing discoveries rather than merely analyzing data after the fact. Written as AI has become dominant in research and industry, the report maintains throughout that many of the hardest open problems in AI, including interpretability, uncertainty quantification, robustness, and calibration, are fundamentally statistical problems.</description>
+      <pubDate>Tue, 26 May 2026 20:11:15 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/00-quicktake.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/episodes/00-quicktake.mp3" length="1570525" type="audio/mpeg"/>
+      <itunes:duration>3:16</itunes:duration>
+      <itunes:author>National Academies of Sciences, Engineering, and Medicine</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>Trailer</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

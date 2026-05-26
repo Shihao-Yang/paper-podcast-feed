@@ -1,0 +1,14 @@
+[
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/nas-frontiers/feed.xml#episodes/00-quicktake.mp3",
+    "title": "Quick Take \u2014 Frontiers of Statistics in Science and Engineering: 2035 and Beyond",
+    "description": "This is a consensus report assessing where the field of statistics stands, where its most important frontiers lie, and what investments the United States needs to sustain those frontiers through 2035 and beyond. The central argument is that statistics is a generative force in science and engineering, co-producing discoveries rather than merely analyzing data after the fact. Written as AI has become dominant in research and industry, the report maintains throughout that many of the hardest open problems in AI, including interpretability, uncertainty quantification, robustness, and calibration, are fundamentally statistical problems.",
+    "pub_date_iso": "2026-05-26T20:11:15.652751+00:00",
+    "audio_path": "episodes/00-quicktake.mp3",
+    "audio_size_bytes": 1570525,
+    "duration_seconds": 196.215918,
+    "season": 1,
+    "episode_number": null,
+    "episode_type": "Trailer"
+  }
+]

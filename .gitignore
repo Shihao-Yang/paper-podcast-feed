@@ -1,0 +1,5 @@
+# Source PDFs used by the pdf_book pipeline are kept local only. They're the
+# master document we slice into per-chapter PDFs; only the resulting MP3s and
+# feed.xml get published. This keeps the repo small and avoids redistributing
+# source material that may have its own license terms.
+books/*/source.pdf
