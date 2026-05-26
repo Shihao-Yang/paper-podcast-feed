@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 15:32:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:36:14 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -32,19 +32,6 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>Trailer</itunes:episodeType>
-    </item>
-    <item>
-      <title>Ch. 1 — An Introduction to Veridical Data Science</title>
-      <description>To practice veridical data science is to practice "truthful" data science. The goal is to answer real-world questions by collecting and critically evaluating relevant empirical, data-driven evidence, using human judgment calls in the context of domain knowledge. If that evidence is deemed sufficiently trustworthy, it gets communicated to domain stakeholders, where it can play a role in real-world decision making and in updating what we know about the domain.</description>
-      <pubDate>Tue, 26 May 2026 14:38:48 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-01-an-introduction-to-veridical-data-science.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-01-an-introduction-to-veridical-data-science.mp3" length="14754003" type="audio/mpeg"/>
-      <itunes:duration>30:44</itunes:duration>
-      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
     </item>
     <item>
       <title>Ch. 2 — The Data Science Life Cycle</title>
@@ -213,6 +200,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 1 — An Introduction to Veridical Data Science</title>
+      <description>To practice veridical data science is to practice "truthful" data science. The goal of veridical data science is to answer real-world questions by collecting and critically evaluating relevant empirical, that is, data-driven, evidence using human judgment calls in the context of domain knowledge. If the empirical evidence is deemed sufficiently trustworthy, it is communicated to domain stakeholders, where it can play a role in real-world decision making and updating domain knowledge.</description>
+      <pubDate>Tue, 26 May 2026 21:32:16 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-01-an-introduction-to-veridical-data-science.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-01-an-introduction-to-veridical-data-science.mp3" length="21314290" type="audio/mpeg"/>
+      <itunes:duration>44:24</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>

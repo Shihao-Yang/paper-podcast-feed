@@ -12,18 +12,6 @@
     "episode_type": "Trailer"
   },
   {
-    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-01-an-introduction-to-veridical-data-science.mp3",
-    "title": "Ch. 1 \u2014 An Introduction to Veridical Data Science",
-    "description": "To practice veridical data science is to practice \"truthful\" data science. The goal is to answer real-world questions by collecting and critically evaluating relevant empirical, data-driven evidence, using human judgment calls in the context of domain knowledge. If that evidence is deemed sufficiently trustworthy, it gets communicated to domain stakeholders, where it can play a role in real-world decision making and in updating what we know about the domain.",
-    "pub_date_iso": "2026-05-26T14:38:48.140640+00:00",
-    "audio_path": "episodes/ch-01-an-introduction-to-veridical-data-science.mp3",
-    "audio_size_bytes": 14754003,
-    "duration_seconds": 1844.144807,
-    "season": 1,
-    "episode_number": 1,
-    "episode_type": "Full"
-  },
-  {
     "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-02-the-data-science-life-cycle.mp3",
     "title": "Ch. 2 \u2014 The Data Science Life Cycle",
     "description": "Every data science project progresses through some combination of six stages. The book calls these stages together the data science life cycle, or DSLC. The six stages, in order, are: first, domain problem formulation and data collection; second, data cleaning, preprocessing, and exploratory data analysis; third, exploration of intrinsic data structures through dimensionality reduction and clustering; fourth, predictive and inferential analysis; fifth, evaluation of results; and sixth, communication of results. Almost every project will pass through stages one, two, five, and six. Stages three and four are optional \u2014 whether you need them depends entirely on the question you are asking.",
@@ -177,6 +165,18 @@
     "duration_seconds": 643.418549,
     "season": 1,
     "episode_number": 14,
+    "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-01-an-introduction-to-veridical-data-science.mp3",
+    "title": "Ch. 1 \u2014 An Introduction to Veridical Data Science",
+    "description": "To practice veridical data science is to practice \"truthful\" data science. The goal of veridical data science is to answer real-world questions by collecting and critically evaluating relevant empirical, that is, data-driven, evidence using human judgment calls in the context of domain knowledge. If the empirical evidence is deemed sufficiently trustworthy, it is communicated to domain stakeholders, where it can play a role in real-world decision making and updating domain knowledge.",
+    "pub_date_iso": "2026-05-26T21:32:16.303534+00:00",
+    "audio_path": "episodes/ch-01-an-introduction-to-veridical-data-science.mp3",
+    "audio_size_bytes": 21314290,
+    "duration_seconds": 2664.180726,
+    "season": 1,
+    "episode_number": 1,
     "episode_type": "Full"
   }
 ]
