@@ -34,5 +34,17 @@
     "season": 1,
     "episode_number": 2,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-03-setting-up-your-data-science-project.mp3",
+    "title": "Ch. 3 \u2014 Setting Up Your Data Science Project",
+    "description": "In this chapter, we step back from the analytical substance of data science and look at the scaffolding around it \u2014 how you structure your files, write and document your code, and organize your workflow so that your results are reproducible and your project remains intelligible to collaborators and to your future self. The ideas here draw directly on the data science life cycle and the predictability, computability, and stability framework introduced earlier in the book.",
+    "pub_date_iso": "2026-05-26T14:55:20.219901+00:00",
+    "audio_path": "episodes/ch-03-setting-up-your-data-science-project.mp3",
+    "audio_size_bytes": 9583639,
+    "duration_seconds": 1197.8522,
+    "season": 1,
+    "episode_number": 3,
+    "episode_type": "Full"
   }
 ]
