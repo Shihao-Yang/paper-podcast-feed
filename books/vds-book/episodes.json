@@ -58,5 +58,17 @@
     "season": 1,
     "episode_number": 4,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-05-exploratory-data-analysis.mp3",
+    "title": "Ch. 5 \u2014 Exploratory Data Analysis",
+    "description": "Since our eyes and brains are not wired to detect patterns in large tables filled with text and numbers, we almost never communicate data-driven results by simply handing someone the raw data. Instead, we summarize it \u2014 using a mean, a table, a chart \u2014 so that shape, distance, color, and size can do the work of conveying magnitude and relationship.",
+    "pub_date_iso": "2026-05-26T14:57:20.219901+00:00",
+    "audio_path": "episodes/ch-05-exploratory-data-analysis.mp3",
+    "audio_size_bytes": 14364883,
+    "duration_seconds": 1795.510612,
+    "season": 1,
+    "episode_number": 5,
+    "episode_type": "Full"
   }
 ]

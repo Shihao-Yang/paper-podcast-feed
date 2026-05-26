@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 15:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:03:42 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -83,6 +83,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 5 — Exploratory Data Analysis</title>
+      <description>Since our eyes and brains are not wired to detect patterns in large tables filled with text and numbers, we almost never communicate data-driven results by simply handing someone the raw data. Instead, we summarize it — using a mean, a table, a chart — so that shape, distance, color, and size can do the work of conveying magnitude and relationship.</description>
+      <pubDate>Tue, 26 May 2026 14:57:20 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-05-exploratory-data-analysis.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-05-exploratory-data-analysis.mp3" length="14364883" type="audio/mpeg"/>
+      <itunes:duration>29:56</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>
