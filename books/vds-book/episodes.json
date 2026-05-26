@@ -22,5 +22,17 @@
     "season": 1,
     "episode_number": 1,
     "episode_type": "Full"
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-02-the-data-science-life-cycle.mp3",
+    "title": "Ch. 2 \u2014 The Data Science Life Cycle",
+    "description": "Every data science project progresses through some combination of six stages. The book calls these stages together the data science life cycle, or DSLC. The six stages, in order, are: first, domain problem formulation and data collection; second, data cleaning, preprocessing, and exploratory data analysis; third, exploration of intrinsic data structures through dimensionality reduction and clustering; fourth, predictive and inferential analysis; fifth, evaluation of results; and sixth, communication of results. Almost every project will pass through stages one, two, five, and six. Stages three and four are optional \u2014 whether you need them depends entirely on the question you are asking.",
+    "pub_date_iso": "2026-05-26T14:54:20.219901+00:00",
+    "audio_path": "episodes/ch-02-the-data-science-life-cycle.mp3",
+    "audio_size_bytes": 10920899,
+    "duration_seconds": 1365.012653,
+    "season": 1,
+    "episode_number": 2,
+    "episode_type": "Full"
   }
 ]
