@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
     <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 22:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 22:16:26 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -32,19 +32,6 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>Trailer</itunes:episodeType>
-    </item>
-    <item>
-      <title>Ch. 6 — Principal Component Analysis</title>
-      <description>Answering sophisticated domain questions often involves data that is high-dimensional — data containing a large number of variables. A vivid example is biological gene expression data, which quantifies how actively each gene in the genome is being expressed. Since every person has more than 20,000 genes, every person's gene expression profile is itself a vector of more than 20,000 numbers. The question of how to explore relationships and interactions across 20,000 variables at once is not a simple one. Most of the visualization techniques we rely on — histograms, scatterplots — are designed for examining a few variables at a time and break down entirely at this scale. And it is not only visualization that struggles. Many analytic methods, including predictive models, perform poorly or fail outright when there are more variables than observations.</description>
-      <pubDate>Tue, 26 May 2026 14:58:20 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-06-principal-component-analysis.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-06-principal-component-analysis.mp3" length="19432011" type="audio/mpeg"/>
-      <itunes:duration>40:29</itunes:duration>
-      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <itunes:episodeType>Full</itunes:episodeType>
     </item>
     <item>
       <title>Ch. 7 — Clustering</title>
@@ -213,6 +200,19 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>Full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Ch. 6 — Principal Component Analysis</title>
+      <description>Answering sophisticated domain questions often involves analyzing data that is high-dimensional, meaning that it contains a large number of variables. One example is biological gene expression data, which quantifies the extent to which each gene in the genome is being "expressed" and is particularly useful for answering questions about genetic traits that might be associated with disease. But since every person has more than 20,000 genes in their genome, every person's gene expression data consists of more than 20,000 variables. How would you go about exploring the relationships and interactions between 20,000 variables at once? Unfortunately, most of the common visualization techniques — such as histograms and scatterplots — are designed to examine at most a few variables at a time and are certainly not suitable for visualizing the relationships between hundreds or thousands of variables at once. And it's not just our visualization techniques that fail in the face of high-dimensional data. Many analytic techniques — such as predictive models — also perform poorly when there are too many variables, especially when there are not also large numbers of observations, and most of them fail entirely when there are more variables than observations.</description>
+      <pubDate>Tue, 26 May 2026 21:37:16 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-06-principal-component-analysis.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-06-principal-component-analysis.mp3" length="36768122" type="audio/mpeg"/>
+      <itunes:duration>1:16:36</itunes:duration>
+      <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
   </channel>
