@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 15:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 15:21:23 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -28,6 +28,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-quick-take-statistical-ranking-with-dynamic-covariates.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-27-quick-take-statistical-ranking-with-dynamic-covariates.mp3" length="1591214" type="audio/mpeg"/>
       <itunes:duration>3:19</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Statistical ranking with dynamic covariates</title>
+      <description>Statistical ranking models built on the Plackett–Luce framework assign each object a latent score, and the probability of any observed ranking is determined by those scores. Most prior work assumes that each object's score is fixed — the same no matter which comparison it appears in. This paper introduces a generalization where covariates attached to each object can vary across comparisons, meaning the same player or horse may carry a different covariate value in every race or match. The authors call this the PlusDC model — Plackett–Luce Supplemented with Dynamic Covariates. The paper provides conditions for when the model is identifiable, when the maximum likelihood estimator uniquely exists, an efficient algorithm to compute it, and a uniform consistency theorem with explicit convergence rates. Both synthetic experiments and applications to ATP tennis and Hong Kong horse racing show the model improving over the standard Plackett–Luce baseline.</description>
+      <pubDate>Wed, 27 May 2026 15:20:40 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-statistical-ranking-with-dynamic-covariates.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-27-statistical-ranking-with-dynamic-covariates.mp3" length="12768488" type="audio/mpeg"/>
+      <itunes:duration>26:36</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
