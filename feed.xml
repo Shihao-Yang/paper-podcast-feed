@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 15:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 20:35:01 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Quick Take — The frontier of simulation-based inference</title>
+      <description>Many branches of science rely on complex simulators to model phenomena they care about — particle collisions, epidemic spread, neuron dynamics, cosmological structure formation. These simulators are often excellent forward models, but they create a fundamental problem for inference: the likelihood function is intractable. You can run the simulator and get data out, but you cannot evaluate the probability of a particular observation under a given set of parameters. This paper is a review of the rapidly evolving field that has grown up around this problem, written by three researchers who have been central contributors to it.</description>
+      <pubDate>Wed, 27 May 2026 20:34:58 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-quick-take-the-frontier-of-simulation-based-inference.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-27-quick-take-the-frontier-of-simulation-based-inference.mp3" length="1646803" type="audio/mpeg"/>
+      <itunes:duration>3:26</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Quick Take — Statistical ranking with dynamic covariates</title>
       <description>The Plackett-Luce model and its pairwise special case, the Bradley-Terry model, are workhorses for learning latent scores from comparison data — sports rankings, RLHF preference learning, any setting where you observe which item in a group wins. A natural extension is to let covariates shift those scores: a tennis player is older now, a product is shown in a different context. Prior work either drops individual effects entirely and models scores as pure functions of covariates, or keeps individual effects but fixes the covariates so they don't vary across comparisons. Neither is fully satisfying. This paper fills that gap.</description>

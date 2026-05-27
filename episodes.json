@@ -130,5 +130,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-quick-take-the-frontier-of-simulation-based-inference.mp3",
+    "title": "Quick Take \u2014 The frontier of simulation-based inference",
+    "description": "Many branches of science rely on complex simulators to model phenomena they care about \u2014 particle collisions, epidemic spread, neuron dynamics, cosmological structure formation. These simulators are often excellent forward models, but they create a fundamental problem for inference: the likelihood function is intractable. You can run the simulator and get data out, but you cannot evaluate the probability of a particular observation under a given set of parameters. This paper is a review of the rapidly evolving field that has grown up around this problem, written by three researchers who have been central contributors to it.",
+    "pub_date_iso": "2026-05-27T20:34:58.195041+00:00",
+    "audio_path": "episodes/2026-05-27-quick-take-the-frontier-of-simulation-based-inference.mp3",
+    "audio_size_bytes": 1646803,
+    "duration_seconds": 205.74254,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
