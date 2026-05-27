@@ -154,5 +154,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-full-read-the-frontier-of-simulation-based-inference.mp3",
+    "title": "Full Read \u2014 The frontier of simulation-based inference",
+    "description": "Many domains of science have developed complex simulations to describe phenomena of interest. While these simulations provide high-fidelity models, they are poorly suited for inference and lead to challenging inverse problems. We review the rapidly developing field of simulation-based inference and identify the forces giving new momentum to the field. Finally, we describe how the frontier is expanding so that a broad audience can appreciate the profound change these developments may have on science.",
+    "pub_date_iso": "2026-05-27T20:34:56.195041+00:00",
+    "audio_path": "episodes/2026-05-27-full-read-the-frontier-of-simulation-based-inference.mp3",
+    "audio_size_bytes": 24656292,
+    "duration_seconds": 3081.93932,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
