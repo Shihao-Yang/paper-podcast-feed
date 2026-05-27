@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 15:38:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 15:20:45 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Quick Take — Statistical ranking with dynamic covariates</title>
+      <description>The Plackett-Luce model and its pairwise special case, the Bradley-Terry model, are workhorses for learning latent scores from comparison data — sports rankings, RLHF preference learning, any setting where you observe which item in a group wins. A natural extension is to let covariates shift those scores: a tennis player is older now, a product is shown in a different context. Prior work either drops individual effects entirely and models scores as pure functions of covariates, or keeps individual effects but fixes the covariates so they don't vary across comparisons. Neither is fully satisfying. This paper fills that gap.</description>
+      <pubDate>Wed, 27 May 2026 15:20:41 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-quick-take-statistical-ranking-with-dynamic-covariates.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-27-quick-take-statistical-ranking-with-dynamic-covariates.mp3" length="1591214" type="audio/mpeg"/>
+      <itunes:duration>3:19</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Quick Take — Boosting Data Analytics with Synthetic Volume Expansion</title>
       <description>The question this paper addresses is whether high-fidelity synthetic data can systematically improve the accuracy of standard statistical methods — not just as a privacy tool or a data-sharing mechanism, but as a direct performance booster. This is genuinely contested territory: some prior work finds synthetic data helps, other work finds it hurts, and the field has lacked a principled framework for understanding when and why either outcome occurs.</description>
