@@ -166,5 +166,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-quick-take-martingale-posterior-distributions.mp3",
+    "title": "Quick Take \u2014 Martingale posterior distributions",
+    "description": "Traditional Bayesian inference starts by placing a prior distribution over a parameter and then updates it to a posterior after observing data. This paper argues that framing is backwards, or at least incomplete. The real source of uncertainty is not ignorance about a parameter in the abstract \u2014 it is the simple fact that you have not seen the entire population. If you had all the data, the parameter would be known exactly. This reframing, grounded in a classical result from Doob, has been sitting in the foundations of probability theory since 1949. This paper finally builds a full inference framework on top of it.",
+    "pub_date_iso": "2026-05-27T21:18:15.714054+00:00",
+    "audio_path": "episodes/2026-05-27-quick-take-martingale-posterior-distributions.mp3",
+    "audio_size_bytes": 1709079,
+    "duration_seconds": 213.529478,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]

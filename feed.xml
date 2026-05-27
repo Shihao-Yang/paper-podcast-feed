@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 20:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 21:18:19 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Quick Take — Martingale posterior distributions</title>
+      <description>Traditional Bayesian inference starts by placing a prior distribution over a parameter and then updates it to a posterior after observing data. This paper argues that framing is backwards, or at least incomplete. The real source of uncertainty is not ignorance about a parameter in the abstract — it is the simple fact that you have not seen the entire population. If you had all the data, the parameter would be known exactly. This reframing, grounded in a classical result from Doob, has been sitting in the foundations of probability theory since 1949. This paper finally builds a full inference framework on top of it.</description>
+      <pubDate>Wed, 27 May 2026 21:18:15 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-quick-take-martingale-posterior-distributions.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-27-quick-take-martingale-posterior-distributions.mp3" length="1709079" type="audio/mpeg"/>
+      <itunes:duration>3:34</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Quick Take — The frontier of simulation-based inference</title>
       <description>Many branches of science rely on complex simulators to model phenomena they care about — particle collisions, epidemic spread, neuron dynamics, cosmological structure formation. These simulators are often excellent forward models, but they create a fundamental problem for inference: the likelihood function is intractable. You can run the simulator and get data out, but you cannot evaluate the probability of a particular observation under a given set of parameters. This paper is a review of the rapidly evolving field that has grown up around this problem, written by three researchers who have been central contributors to it.</description>
