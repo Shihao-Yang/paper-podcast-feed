@@ -190,5 +190,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-full-read-martingale-posterior-distributions.mp3",
+    "title": "Full Read \u2014 Martingale posterior distributions",
+    "description": "However, we prefer to define the parameter as a function of F sub infinity instead of a limiting parameter, that is theta sub infinity equals theta of F sub infinity, since F sub infinity always exists for c.i.d. sequences.",
+    "pub_date_iso": "2026-05-27T21:18:13.714054+00:00",
+    "audio_path": "episodes/2026-05-27-full-read-martingale-posterior-distributions.mp3",
+    "audio_size_bytes": 29171923,
+    "duration_seconds": 3646.397188,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]

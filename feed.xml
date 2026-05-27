@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 21:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 21:20:24 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -38,6 +38,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-martingale-posterior-distributions.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-27-martingale-posterior-distributions.mp3" length="15168200" type="audio/mpeg"/>
       <itunes:duration>31:36</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Full Read — Martingale posterior distributions</title>
+      <description>However, we prefer to define the parameter as a function of F sub infinity instead of a limiting parameter, that is theta sub infinity equals theta of F sub infinity, since F sub infinity always exists for c.i.d. sequences.</description>
+      <pubDate>Wed, 27 May 2026 21:18:13 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-full-read-martingale-posterior-distributions.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-27-full-read-martingale-posterior-distributions.mp3" length="29171923" type="audio/mpeg"/>
+      <itunes:duration>1:00:46</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
