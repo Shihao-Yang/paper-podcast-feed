@@ -178,5 +178,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-martingale-posterior-distributions.mp3",
+    "title": "Martingale posterior distributions",
+    "description": "The prior distribution on the parameters of a sampling model is the usual starting point for Bayesian uncertainty quantification. This paper offers a different perspective. The authors argue that statistical uncertainty exists not because parameters are inherently random, but because we have not observed the entire population. If we had, the quantity of interest would be known precisely. Bayesian inference, viewed this way, is fundamentally about constructing a distribution on the missing observations, conditional on what has been seen. In the conditionally independent and identically distributed setting with an observed sample of size n, the Bayesian therefore assigns a predictive distribution on all the future data that haven't been collected yet, which in turn induces a distribution on any statistic of interest.",
+    "pub_date_iso": "2026-05-27T21:18:14.714054+00:00",
+    "audio_path": "episodes/2026-05-27-martingale-posterior-distributions.mp3",
+    "audio_size_bytes": 15168200,
+    "duration_seconds": 1895.931293,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]

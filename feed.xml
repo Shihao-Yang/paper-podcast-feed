@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 21:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 21:19:03 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -28,6 +28,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-quick-take-martingale-posterior-distributions.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-27-quick-take-martingale-posterior-distributions.mp3" length="1709079" type="audio/mpeg"/>
       <itunes:duration>3:34</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Martingale posterior distributions</title>
+      <description>The prior distribution on the parameters of a sampling model is the usual starting point for Bayesian uncertainty quantification. This paper offers a different perspective. The authors argue that statistical uncertainty exists not because parameters are inherently random, but because we have not observed the entire population. If we had, the quantity of interest would be known precisely. Bayesian inference, viewed this way, is fundamentally about constructing a distribution on the missing observations, conditional on what has been seen. In the conditionally independent and identically distributed setting with an observed sample of size n, the Bayesian therefore assigns a predictive distribution on all the future data that haven't been collected yet, which in turn induces a distribution on any statistic of interest.</description>
+      <pubDate>Wed, 27 May 2026 21:18:14 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-martingale-posterior-distributions.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-27-martingale-posterior-distributions.mp3" length="15168200" type="audio/mpeg"/>
+      <itunes:duration>31:36</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
