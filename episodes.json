@@ -118,5 +118,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-27-full-read-statistical-ranking-with-dynamic-covariates.mp3",
+    "title": "Full Read \u2014 Statistical ranking with dynamic covariates",
+    "description": "We introduce a general covariate-assisted statistical ranking model within the Plackett\u2013Luce framework. Unlike previous studies focusing on individual effects with fixed covariates, our model allows covariates to vary across comparisons. This added flexibility enhances model fitting yet brings significant challenges in analysis. This paper addresses these challenges in the context of maximum likelihood estimation. We first provide sufficient and necessary conditions for both model identifiability and the unique existence of the maximum likelihood estimator. Then, we develop an efficient alternating maximization algorithm to compute the maximum likelihood estimator. Under suitable assumptions on the design of comparison graphs and covariates, we establish a uniform consistency result for the maximum likelihood estimator, with convergence rates determined by the asymptotic graph connectivity. We also construct random designs where the proposed assumptions hold almost surely. Numerical studies are conducted to support our findings and demonstrate the model's application to real-world datasets, including horse racing and tennis competitions.",
+    "pub_date_iso": "2026-05-27T15:20:39.843220+00:00",
+    "audio_path": "episodes/2026-05-27-full-read-statistical-ranking-with-dynamic-covariates.mp3",
+    "audio_size_bytes": 54956034,
+    "duration_seconds": 6869.410204,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
