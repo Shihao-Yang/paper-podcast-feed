@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 01:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 01:25:50 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -28,6 +28,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-31-quick-take-pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-devic.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-31-quick-take-pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-devic.mp3" length="1918267" type="audio/mpeg"/>
       <itunes:duration>4:00</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pixel Watch: Robust Heart Rate Sensing from Multipath PPG and On-Device Deep Learning Trained on 10,000 hours of Free-Living and Fitness Data</title>
+      <description>The Pixel Watch 2 is the first Google smartwatch to combine multipath photoplethysmography — the optical heart rate sensing technology used in nearly every wrist-worn device — with deep learning-based inference. The core idea is that using multiple optical channels, rather than a single one, gives the model more information to work with when separating the genuine pulse signal from the noise introduced by movement. The paper describes both the hardware design and the deep learning architecture, and evaluates the system on two independent datasets: one collected during structured fitness activities and one drawn from participants going about their everyday lives. The central finding is that the Pixel Watch 2 achieves substantially tighter error margins than earlier Google devices, and the authors argue that deep learning was the critical ingredient that allowed multipath hardware to actually deliver on its promise.</description>
+      <pubDate>Sun, 31 May 2026 01:25:17 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-31-pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device-deep-lear.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-31-pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device-deep-lear.mp3" length="8552324" type="audio/mpeg"/>
+      <itunes:duration>17:49</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
