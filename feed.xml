@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 01:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 01:26:31 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -38,6 +38,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-31-pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device-deep-lear.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-31-pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device-deep-lear.mp3" length="8552324" type="audio/mpeg"/>
       <itunes:duration>17:49</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Full Read — Pixel Watch: Robust Heart Rate Sensing from Multipath PPG and On-Device Deep Learning Trained on 10,000 hours of Free-Living and Fitness Data</title>
+      <description>The Pixel Watch 2, or PW2, is the first Google smartwatch to combine multipath photoplethysmography, PPG, with deep learning-based heart rate inference, designed to significantly improve sensing accuracy during motion-heavy activities. The device processes 10 optical channels using an on-device, 15-layer temporally dilated convolutional neural network with approximately 300 thousand parameters to yield a 1 Hz heart rate output. Crucial to this model's performance was its training on a massive dataset comprising 10,000 hours of data from 962 participants, curated from a broader corpus of controlled and free-living activities. We evaluated the PW2's sensing performance across two independent validation sets: an in-house fitness dataset of 229 participants and 250 hours, and an external free-living dataset of 27 participants and over 1,000 hours. The system achieved 95% Limits of Agreement of negative 10.34 to 8.66 beats per minute during exercise and negative 6.57 to 7.48 beats per minute during free-living activities, demonstrating substantially tighter error margins than previous Google devices. Finally, we discuss key design lessons, emphasizing that large-scale deep learning was instrumental in fully leveraging multipath PPG hardware over traditional signal processing approaches.</description>
+      <pubDate>Sun, 31 May 2026 01:25:16 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-31-full-read-pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-05-31-full-read-pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device.mp3" length="12622829" type="audio/mpeg"/>
+      <itunes:duration>26:18</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
