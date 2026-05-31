@@ -202,5 +202,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-05-31-quick-take-pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-devic.mp3",
+    "title": "Quick Take \u2014 Pixel Watch: Robust Heart Rate Sensing from Multipath PPG and On-Device Deep Learning Trained on 10,000 hours of Free-Living and Fitness Data",
+    "description": "Wrist-worn heart rate monitoring is increasingly used not just by individuals but by large epidemiological cohorts \u2014 studies like UK Biobank and All of Us rely on consumer wearables as measurement instruments. That makes accuracy during physical activity a real scientific concern, not just a product quality issue. This paper describes how Google designed and validated the heart rate sensing system in the Pixel Watch 2, and it makes a specific argument: the combination of multipath optical hardware and large-scale deep learning is what finally made wrist-based heart rate robust under motion.",
+    "pub_date_iso": "2026-05-31T01:25:18.145997+00:00",
+    "audio_path": "episodes/2026-05-31-quick-take-pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-devic.mp3",
+    "audio_size_bytes": 1918267,
+    "duration_seconds": 239.675601,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
