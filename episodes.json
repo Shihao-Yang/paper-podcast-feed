@@ -250,5 +250,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-delta-mem-efficient-online-memory-for-large-language-models.mp3",
+    "title": "delta-mem: Efficient Online Memory for Large Language Models",
+    "description": "Large language models are increasingly deployed in scenarios that require continuous interaction \u2014 long-term personalized assistants, agent systems that accumulate experience over many sessions. In these settings, the model must not only understand the current input but effectively leverage relevant past context at test time. The intuitive fix of simply expanding the context window runs into two problems: standard attention scales quadratically with context length, making very long contexts computationally expensive, and research has shown that simply making the window longer does not guarantee effective use of the additional information. Models often suffer from context degradation as history grows very long, suggesting that million-token windows do not fundamentally solve the memory problem.",
+    "pub_date_iso": "2026-06-04T00:53:38.175874+00:00",
+    "audio_path": "episodes/2026-06-04-delta-mem-efficient-online-memory-for-large-language-models.mp3",
+    "audio_size_bytes": 10762284,
+    "duration_seconds": 1345.179819,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
