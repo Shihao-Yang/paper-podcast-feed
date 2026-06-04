@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 00:55:22 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -48,6 +48,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-full-read-delta-mem-efficient-online-memory-for-large-language-models.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-full-read-delta-mem-efficient-online-memory-for-large-language-models.mp3" length="17403028" type="audio/mpeg"/>
       <itunes:duration>36:15</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Full Read — Appendix: delta-mem: Efficient Online Memory for Large Language Models</title>
+      <description>Training Setup. All models are trained for one epoch on the shortest 2,219-sample split of QASPER, whose maximum sequence length is 8,269 tokens. The maximum backbone training sequence length is set to 512, while the memory write budget is set to 8,192 tokens. Unless otherwise specified, delta-mem uses r equals 8 and alpha equals 16, and is applied only to the query and output branches. The number of states in the Multi-State Write variant is set to 4. Training is conducted on 8 times A800 GPUs with bfloat16 precision, DeepSpeed ZeRO-2, and fused AdamW. The peak learning rate is 2 times 10 to the negative 4, with cosine decay and a warmup ratio of 0.1. The per-device batch size is 1, with 4 gradient accumulation steps, resulting in an effective global batch size of 32. The random seed is fixed to 42.</description>
+      <pubDate>Thu, 04 Jun 2026 00:53:36 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-full-read-appendix-delta-mem-efficient-online-memory-for-large-language-models.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-full-read-appendix-delta-mem-efficient-online-memory-for-large-language-models.mp3" length="2949164" type="audio/mpeg"/>
+      <itunes:duration>6:09</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

@@ -274,5 +274,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-full-read-appendix-delta-mem-efficient-online-memory-for-large-language-models.mp3",
+    "title": "Full Read \u2014 Appendix: delta-mem: Efficient Online Memory for Large Language Models",
+    "description": "Training Setup. All models are trained for one epoch on the shortest 2,219-sample split of QASPER, whose maximum sequence length is 8,269 tokens. The maximum backbone training sequence length is set to 512, while the memory write budget is set to 8,192 tokens. Unless otherwise specified, delta-mem uses r equals 8 and alpha equals 16, and is applied only to the query and output branches. The number of states in the Multi-State Write variant is set to 4. Training is conducted on 8 times A800 GPUs with bfloat16 precision, DeepSpeed ZeRO-2, and fused AdamW. The peak learning rate is 2 times 10 to the negative 4, with cosine decay and a warmup ratio of 0.1. The per-device batch size is 1, with 4 gradient accumulation steps, resulting in an effective global batch size of 32. The random seed is fixed to 42.",
+    "pub_date_iso": "2026-06-04T00:53:36.175874+00:00",
+    "audio_path": "episodes/2026-06-04-full-read-appendix-delta-mem-efficient-online-memory-for-large-language-models.mp3",
+    "audio_size_bytes": 2949164,
+    "duration_seconds": 368.543129,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
