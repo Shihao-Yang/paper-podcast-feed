@@ -298,5 +298,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-agentic-harness-engineering-observability-driven-automatic-evolution-of-coding-a.mp3",
+    "title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses",
+    "description": "Coding agents have gotten substantially better at long-horizon software tasks, but their performance depends not only on the underlying language model. It depends equally on the surrounding scaffolding \u2014 the system prompt that shapes how the agent works, the tools that expose the file system and shell, and the middleware layer that intercepts execution and shapes context and recovery. This scaffolding is collectively called the agent's harness. Harnesses are now central to what an agent can accomplish on real tasks, yet designing them well remains a manual craft. Automating that craft is hard for three reasons: the harness has many different kinds of editable components, raw agent trajectories are enormous and bury the actionable signal, and when an edit does or does not work, it is hard to figure out which component caused the change.",
+    "pub_date_iso": "2026-06-04T01:24:47.692786+00:00",
+    "audio_path": "episodes/2026-06-04-agentic-harness-engineering-observability-driven-automatic-evolution-of-coding-a.mp3",
+    "audio_size_bytes": 16270777,
+    "duration_seconds": 2033.761995,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]

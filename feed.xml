@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 01:24:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 01:25:31 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -28,6 +28,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-quick-take-agentic-harness-engineering-observability-driven-automatic-evolution-.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-quick-take-agentic-harness-engineering-observability-driven-automatic-evolution-.mp3" length="1723080" type="audio/mpeg"/>
       <itunes:duration>3:35</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses</title>
+      <description>Coding agents have gotten substantially better at long-horizon software tasks, but their performance depends not only on the underlying language model. It depends equally on the surrounding scaffolding — the system prompt that shapes how the agent works, the tools that expose the file system and shell, and the middleware layer that intercepts execution and shapes context and recovery. This scaffolding is collectively called the agent's harness. Harnesses are now central to what an agent can accomplish on real tasks, yet designing them well remains a manual craft. Automating that craft is hard for three reasons: the harness has many different kinds of editable components, raw agent trajectories are enormous and bury the actionable signal, and when an edit does or does not work, it is hard to figure out which component caused the change.</description>
+      <pubDate>Thu, 04 Jun 2026 01:24:47 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-agentic-harness-engineering-observability-driven-automatic-evolution-of-coding-a.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-agentic-harness-engineering-observability-driven-automatic-evolution-of-coding-a.mp3" length="16270777" type="audio/mpeg"/>
+      <itunes:duration>33:54</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
