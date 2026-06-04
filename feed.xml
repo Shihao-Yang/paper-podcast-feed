@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 01:24:52 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Quick Take — Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses</title>
+      <description>Coding agents have become competitive on long-horizon software benchmarks, but the community has focused most attention on the base model while the surrounding scaffolding — the harness — has remained a manual craft. The harness is everything that wraps the model: the system prompt, the tools that expose the shell and filesystem, the middleware that controls execution flow, and long-term memory files that persist lessons across tasks. This paper asks whether a second agent can reliably engineer that harness automatically, and gives a concrete answer.</description>
+      <pubDate>Thu, 04 Jun 2026 01:24:48 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-quick-take-agentic-harness-engineering-observability-driven-automatic-evolution-.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-quick-take-agentic-harness-engineering-observability-driven-automatic-evolution-.mp3" length="1723080" type="audio/mpeg"/>
+      <itunes:duration>3:35</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Quick Take — delta-mem: Efficient Online Memory for Large Language Models</title>
       <description>The field has been wrestling with a basic question: how should a language model remember things across a long interaction? The obvious answer — just keep adding to the context window — turns out to be unsatisfying. Longer contexts are computationally expensive, and there is growing evidence that models do not actually use the extra history well even when you give it to them. This paper asks whether there is a smarter way to compress and maintain historical information that stays tightly coupled to how the model actually thinks.</description>
