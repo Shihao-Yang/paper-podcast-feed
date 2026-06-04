@@ -370,5 +370,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-full-read-appendix-muse-autoskill-self-evolving-agents-via-skill-creation-memory.mp3",
+    "title": "Full Read \u2014 Appendix: MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+    "description": "Table 7 lists all 51 selected SkillsBench tasks used in the evaluation, together with their domain and whether MUSE-Autoskill successfully generated a skill in the automatic skill generation experiment. The table has three columns: task number, task identifier, domain, and whether a skill was generated. \"n/a\" indicates that Phase 1 produced no successful run and no skill was generated.",
+    "pub_date_iso": "2026-06-04T02:07:47.499851+00:00",
+    "audio_path": "episodes/2026-06-04-full-read-appendix-muse-autoskill-self-evolving-agents-via-skill-creation-memory.mp3",
+    "audio_size_bytes": 20811276,
+    "duration_seconds": 2601.315918,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
