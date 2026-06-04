@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 02:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 02:09:45 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -38,6 +38,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-muse-autoskill-self-evolving-agents-via-skill-creation-memory-management-and-eva.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-muse-autoskill-self-evolving-agents-via-skill-creation-memory-management-and-eva.mp3" length="17211812" type="audio/mpeg"/>
       <itunes:duration>35:51</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Full Read — MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation</title>
+      <description>Large language model agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability, reliability, and long-term improvement. We propose MUSE-Autoskill Agent — Memory-Utilizing Skill Evolution — a skill-centric agent framework that lets agents continuously improve their task-solving capability by creating, reusing, and refining skills under a unified lifecycle of creation, memory, management, evaluation, and refinement. Our framework enables agents to create skills on demand, store and reuse them across tasks, organize and select them efficiently, and evaluate them through unit tests and runtime feedback for continuous refinement. We further introduce skill-level memory that accumulates experience for each skill across tasks, enabling more effective reuse and adaptation over time. Experiments on SkillsBench provide initial evidence that lifecycle-managed skills can improve task success, efficiency, reuse, and cross-agent transfer, highlighting the importance of treating skills as long-lived, experience-aware, and testable assets.</description>
+      <pubDate>Thu, 04 Jun 2026 02:07:48 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-full-read-muse-autoskill-self-evolving-agents-via-skill-creation-memory-manageme.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-full-read-muse-autoskill-self-evolving-agents-via-skill-creation-memory-manageme.mp3" length="27239697" type="audio/mpeg"/>
+      <itunes:duration>56:45</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

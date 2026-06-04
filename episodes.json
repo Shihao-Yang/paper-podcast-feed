@@ -358,5 +358,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-full-read-muse-autoskill-self-evolving-agents-via-skill-creation-memory-manageme.mp3",
+    "title": "Full Read \u2014 MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+    "description": "Large language model agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability, reliability, and long-term improvement. We propose MUSE-Autoskill Agent \u2014 Memory-Utilizing Skill Evolution \u2014 a skill-centric agent framework that lets agents continuously improve their task-solving capability by creating, reusing, and refining skills under a unified lifecycle of creation, memory, management, evaluation, and refinement. Our framework enables agents to create skills on demand, store and reuse them across tasks, organize and select them efficiently, and evaluate them through unit tests and runtime feedback for continuous refinement. We further introduce skill-level memory that accumulates experience for each skill across tasks, enabling more effective reuse and adaptation over time. Experiments on SkillsBench provide initial evidence that lifecycle-managed skills can improve task success, efficiency, reuse, and cross-agent transfer, highlighting the importance of treating skills as long-lived, experience-aware, and testable assets.",
+    "pub_date_iso": "2026-06-04T02:07:48.499851+00:00",
+    "audio_path": "episodes/2026-06-04-full-read-muse-autoskill-self-evolving-agents-via-skill-creation-memory-manageme.mp3",
+    "audio_size_bytes": 27239697,
+    "duration_seconds": 3404.854376,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
