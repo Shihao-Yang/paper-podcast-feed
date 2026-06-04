@@ -262,5 +262,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-full-read-delta-mem-efficient-online-memory-for-large-language-models.mp3",
+    "title": "Full Read \u2014 delta-mem: Efficient Online Memory for Large Language Models",
+    "description": "Large language models increasingly need to accumulate and reuse historical information in long-term assistants and agent systems. Simply expanding the context window is costly and often fails to ensure effective context utilization. We propose delta-mem, a lightweight memory mechanism that augments a frozen full-attention backbone with a compact online state of associative memory. Delta-mem compresses past information into a fixed-size state matrix updated by delta-rule learning, and uses its readout to generate low-rank corrections to the backbone's attention computation during generation. With only an 8 by 8 online memory state, delta-mem improves the average score to 1.10 times that of the frozen backbone and 1.15 times that of the strongest non-delta-mem memory baseline. It achieves larger gains on memory-heavy benchmarks, reaching 1.31 times on MemoryAgentBench and 1.20 times on LoCoMo, while largely preserving general capabilities. These results show that effective memory can be realized through a compact online state directly coupled with attention computation, without full fine-tuning, backbone replacement, or explicit context extension.",
+    "pub_date_iso": "2026-06-04T00:53:37.175874+00:00",
+    "audio_path": "episodes/2026-06-04-full-read-delta-mem-efficient-online-memory-for-large-language-models.mp3",
+    "audio_size_bytes": 17403028,
+    "duration_seconds": 2175.281587,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
