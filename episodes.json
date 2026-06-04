@@ -238,5 +238,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-quick-take-delta-mem-efficient-online-memory-for-large-language-models.mp3",
+    "title": "Quick Take \u2014 delta-mem: Efficient Online Memory for Large Language Models",
+    "description": "The field has been wrestling with a basic question: how should a language model remember things across a long interaction? The obvious answer \u2014 just keep adding to the context window \u2014 turns out to be unsatisfying. Longer contexts are computationally expensive, and there is growing evidence that models do not actually use the extra history well even when you give it to them. This paper asks whether there is a smarter way to compress and maintain historical information that stays tightly coupled to how the model actually thinks.",
+    "pub_date_iso": "2026-06-04T00:53:39.175874+00:00",
+    "audio_path": "episodes/2026-06-04-quick-take-delta-mem-efficient-online-memory-for-large-language-models.mp3",
+    "audio_size_bytes": 1552762,
+    "duration_seconds": 193.992517,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
