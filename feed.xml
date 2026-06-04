@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 01:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 01:27:54 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -48,6 +48,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-full-read-agentic-harness-engineering-observability-driven-automatic-evolution-o.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-full-read-agentic-harness-engineering-observability-driven-automatic-evolution-o.mp3" length="18481781" type="audio/mpeg"/>
       <itunes:duration>38:30</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Full Read — Appendix: Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses</title>
+      <description>Appendix A. Experimental Setup: Full Details.</description>
+      <pubDate>Thu, 04 Jun 2026 01:24:45 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-full-read-appendix-agentic-harness-engineering-observability-driven-automatic-ev.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-full-read-appendix-agentic-harness-engineering-observability-driven-automatic-ev.mp3" length="38160971" type="audio/mpeg"/>
+      <itunes:duration>1:19:30</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
