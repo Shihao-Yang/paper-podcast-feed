@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 01:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 01:26:19 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -38,6 +38,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-agentic-harness-engineering-observability-driven-automatic-evolution-of-coding-a.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-agentic-harness-engineering-observability-driven-automatic-evolution-of-coding-a.mp3" length="16270777" type="audio/mpeg"/>
       <itunes:duration>33:54</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Full Read — Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses</title>
+      <description>Harnesses are now central to agent performance, mediating how models interact with tools and execution environments. Yet harness engineering remains a manual craft, because automating it faces a heterogeneous action space across editable components, voluminous trajectories that bury actionable signal, and edits whose effect is hard to attribute. We introduce Agentic Harness Engineering, or AHE, a closed loop that addresses these challenges through three matched observability pillars: first, component observability gives every editable harness component a file-level representation so the action space is explicit and revertible; second, experience observability distills millions of raw trajectory tokens into a layered, drill-down evidence corpus that an evolving agent can actually consume; and third, decision observability pairs every edit with a self-declared prediction, later verified against the next round's task-level outcomes. Together, these pillars turn every edit into a falsifiable contract, so harness evolution proceeds autonomously without collapsing into trial-and-error. Empirically, ten AHE iterations lift pass at 1 on Terminal-Bench 2 from 69.7% to 77.0%, surpassing the human-designed harness Codex at 71.9% and the self-evolving baselines ACE and Training-Free GRPO. The frozen harness transfers without re-evolution: on SWE-bench-verified it achieves the highest aggregate success while using 12% fewer tokens than the seed, and on Terminal-Bench 2 it yields gains of plus 5.1 to plus 10.1 percentage points across three alternate model families, indicating the evolved components encode general engineering experience rather than benchmark-specific tuning. Ablations further localize the gain to tools, middleware, and long-term memory rather than the system prompt. These results position observability-driven evolution as a practical pathway to keep coding-agent harnesses continually improving alongside their base models.</description>
+      <pubDate>Thu, 04 Jun 2026 01:24:46 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-full-read-agentic-harness-engineering-observability-driven-automatic-evolution-o.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-full-read-agentic-harness-engineering-observability-driven-automatic-evolution-o.mp3" length="18481781" type="audio/mpeg"/>
+      <itunes:duration>38:30</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
