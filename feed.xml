@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 01:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 02:07:53 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -21,6 +21,16 @@
     </itunes:category>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Quick Take — MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation</title>
+      <description>The question this paper addresses is one that anyone building LLM agent systems has run into: skills work, but existing systems treat them as static one-off artifacts. A skill gets created, maybe used once, and then it sits there unvalidated, unrefined, and invisible to any other agent. The field has needed a framework that treats skills as living assets rather than disposable outputs.</description>
+      <pubDate>Thu, 04 Jun 2026 02:07:50 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-quick-take-muse-autoskill-self-evolving-agents-via-skill-creation-memory-managem.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-06-04-quick-take-muse-autoskill-self-evolving-agents-via-skill-creation-memory-managem.mp3" length="1762995" type="audio/mpeg"/>
+      <itunes:duration>3:40</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Quick Take — Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses</title>
       <description>Coding agents have become competitive on long-horizon software benchmarks, but the community has focused most attention on the base model while the surrounding scaffolding — the harness — has remained a manual craft. The harness is everything that wraps the model: the system prompt, the tools that expose the shell and filesystem, the middleware that controls execution flow, and long-term memory files that persist lessons across tasks. This paper asks whether a second agent can reliably engineer that harness automatically, and gives a concrete answer.</description>

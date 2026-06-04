@@ -334,5 +334,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-06-04-quick-take-muse-autoskill-self-evolving-agents-via-skill-creation-memory-managem.mp3",
+    "title": "Quick Take \u2014 MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+    "description": "The question this paper addresses is one that anyone building LLM agent systems has run into: skills work, but existing systems treat them as static one-off artifacts. A skill gets created, maybe used once, and then it sits there unvalidated, unrefined, and invisible to any other agent. The field has needed a framework that treats skills as living assets rather than disposable outputs.",
+    "pub_date_iso": "2026-06-04T02:07:50.499851+00:00",
+    "audio_path": "episodes/2026-06-04-quick-take-muse-autoskill-self-evolving-agents-via-skill-creation-memory-managem.mp3",
+    "audio_size_bytes": 1762995,
+    "duration_seconds": 220.282676,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
