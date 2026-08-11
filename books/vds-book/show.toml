@@ -6,7 +6,7 @@
 [show]
 slug = "vds-book"
 title = "Veridical Data Science (audiobook)"
-description = "AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license."
+description = "AI-narrated accessibility prototype of Veridical Data Science by Bin Yu and Rebecca Barter, using the Qwen Maia voice. Shared for private review under the book's CC-BY-NC-ND license."
 author = "Bin Yu and Rebecca Barter"
 language = "en-us"
 itunes_type = "serial"

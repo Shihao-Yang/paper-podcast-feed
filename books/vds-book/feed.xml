@@ -6,9 +6,9 @@
   <channel>
     <title>Veridical Data Science (audiobook)</title>
     <link>https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/</link>
-    <description>AI-narrated reading of Veridical Data Science by Bin Yu and Rebecca Barter. Personal use only under the book's CC-BY-NC-ND license.</description>
+    <description>AI-narrated accessibility prototype of Veridical Data Science by Bin Yu and Rebecca Barter, using the Qwen Maia voice. Shared for private review under the book's CC-BY-NC-ND license.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 23:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 17:50:58 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
     <itunes:owner>
@@ -37,9 +37,9 @@
       <title>Ch. 1 — An Introduction to Veridical Data Science</title>
       <description>To practice veridical data science is to practice "truthful" data science. The goal of veridical data science is to answer real-world questions by collecting and critically evaluating relevant empirical, that is, data-driven, evidence using human judgment calls in the context of domain knowledge. If the empirical evidence is deemed sufficiently trustworthy, it is communicated to domain stakeholders, where it can play a role in real-world decision making and updating domain knowledge.</description>
       <pubDate>Tue, 26 May 2026 21:32:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-01-an-introduction-to-veridical-data-science.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-01-an-introduction-to-veridical-data-science.mp3" length="21314290" type="audio/mpeg"/>
-      <itunes:duration>44:24</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-01-an-introduction-to-veridical-data-science.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-01-an-introduction-to-veridical-data-science.qwen-maia.mp3" length="23479725" type="audio/mpeg"/>
+      <itunes:duration>48:55</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -50,9 +50,9 @@
       <title>Ch. 2 — The Data Science Life Cycle</title>
       <description>Every data science project progresses through some combination of the following stages of the data science life cycle, or DSLC: one, domain problem formulation and data collection; two, data cleaning, preprocessing, and exploratory data analysis; three, exploration of intrinsic data structures, meaning dimensionality reduction and clustering; four, predictive and/or inferential analysis; five, evaluation of results; and six, communication of results.</description>
       <pubDate>Tue, 26 May 2026 21:33:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-02-the-data-science-life-cycle.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-02-the-data-science-life-cycle.mp3" length="16107773" type="audio/mpeg"/>
-      <itunes:duration>33:33</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-02-the-data-science-life-cycle.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-02-the-data-science-life-cycle.qwen-maia.mp3" length="17852205" type="audio/mpeg"/>
+      <itunes:duration>37:11</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -63,9 +63,9 @@
       <title>Ch. 3 — Setting Up Your Data Science Project</title>
       <description>In this chapter, we will briefly introduce some software principles that will come in handy when it comes to practicing data science. While the technical focus of data science is often on writing code itself, you also need to provide a sensible structure to your data files, analyses, and documentation so your results will be reproducible and your analyses will be as unambiguous as possible.</description>
       <pubDate>Tue, 26 May 2026 21:34:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-03-setting-up-your-data-science-project.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-03-setting-up-your-data-science-project.mp3" length="19014470" type="audio/mpeg"/>
-      <itunes:duration>39:37</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-03-setting-up-your-data-science-project.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-03-setting-up-your-data-science-project.qwen-maia.mp3" length="20460141" type="audio/mpeg"/>
+      <itunes:duration>42:37</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -76,9 +76,9 @@
       <title>Ch. 4 — Data Preparation</title>
       <description>Every data science project arises from a real-world question whose answer is believed to lie, in part, within some data that either has been or will be collected. Perhaps your question is: which house should I buy? To answer this question, you might plan to analyze some data containing information on recent housing sales in your city, where, for each house sale, the data might contain information including how large the house is, what kind of condition it is in, when the house was sold, and how much the house sold for. Your eventual decision about which house to buy might then be based on a combination of your analysis of this data and your domain knowledge about houses and the city in which you live, and your preferences, of course.</description>
       <pubDate>Tue, 26 May 2026 21:35:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-04-data-preparation.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-04-data-preparation.mp3" length="32789986" type="audio/mpeg"/>
-      <itunes:duration>1:08:19</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-04-data-preparation.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-04-data-preparation.qwen-maia.mp3" length="36419949" type="audio/mpeg"/>
+      <itunes:duration>1:15:52</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -89,9 +89,9 @@
       <title>Ch. 5 — Exploratory Data Analysis</title>
       <description>Since our eyes and brains are not wired to detect patterns in large data tables filled with text and numbers, communication about data and data-driven results rarely comes in the form of raw data or code output. Instead, data and data-driven results are usually either summarized — for example, using an average or mean — and presented in small summary tables, or they are presented visually in the form of graphs, in which shape, distance, color, and size can be used to represent the magnitudes of, and relationships between, the values within our data.</description>
       <pubDate>Tue, 26 May 2026 21:36:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-05-exploratory-data-analysis.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-05-exploratory-data-analysis.mp3" length="29443805" type="audio/mpeg"/>
-      <itunes:duration>1:01:20</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-05-exploratory-data-analysis.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-05-exploratory-data-analysis.qwen-maia.mp3" length="33033645" type="audio/mpeg"/>
+      <itunes:duration>1:08:49</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -102,9 +102,9 @@
       <title>Ch. 6 — Principal Component Analysis</title>
       <description>Answering sophisticated domain questions often involves analyzing data that is high-dimensional, meaning that it contains a large number of variables. One example is biological gene expression data, which quantifies the extent to which each gene in the genome is being "expressed" and is particularly useful for answering questions about genetic traits that might be associated with disease. But since every person has more than 20,000 genes in their genome, every person's gene expression data consists of more than 20,000 variables. How would you go about exploring the relationships and interactions between 20,000 variables at once? Unfortunately, most of the common visualization techniques — such as histograms and scatterplots — are designed to examine at most a few variables at a time and are certainly not suitable for visualizing the relationships between hundreds or thousands of variables at once. And it's not just our visualization techniques that fail in the face of high-dimensional data. Many analytic techniques — such as predictive models — also perform poorly when there are too many variables, especially when there are not also large numbers of observations, and most of them fail entirely when there are more variables than observations.</description>
       <pubDate>Tue, 26 May 2026 21:37:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-06-principal-component-analysis.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-06-principal-component-analysis.mp3" length="36768122" type="audio/mpeg"/>
-      <itunes:duration>1:16:36</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-06-principal-component-analysis.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-06-principal-component-analysis.qwen-maia.mp3" length="39897645" type="audio/mpeg"/>
+      <itunes:duration>1:23:07</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -115,9 +115,9 @@
       <title>Ch. 7 — Clustering</title>
       <description>In the previous chapter, we used principal component analysis to create simplified low-dimensional representations of our data by summarizing and aggregating the variables, or columns. In this chapter, we will shift our focus from the variables, or columns, of the data to the observations, or rows. Specifically, our goal in this chapter is to identify reasonable clusters of observations, and we will introduce several unsupervised learning clustering algorithms that can help us achieve this goal.</description>
       <pubDate>Tue, 26 May 2026 21:38:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-07-clustering.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-07-clustering.mp3" length="44749053" type="audio/mpeg"/>
-      <itunes:duration>1:33:14</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-07-clustering.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-07-clustering.qwen-maia.mp3" length="48750765" type="audio/mpeg"/>
+      <itunes:duration>1:41:34</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -128,9 +128,9 @@
       <title>Ch. 8 — An Introduction to Prediction Problems</title>
       <description>So far in this book, our analyses have primarily focused on understanding the underlying structure of our data and summarizing the patterns and relationships it contains. In part three of this book, we will shift gears, turning our attention to prediction problems, a major topic in both traditional statistics and machine learning.</description>
       <pubDate>Tue, 26 May 2026 21:39:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-08-an-introduction-to-prediction-problems.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-08-an-introduction-to-prediction-problems.mp3" length="17879919" type="audio/mpeg"/>
-      <itunes:duration>37:15</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-08-an-introduction-to-prediction-problems.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-08-an-introduction-to-prediction-problems.qwen-maia.mp3" length="19321005" type="audio/mpeg"/>
+      <itunes:duration>40:15</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -141,9 +141,9 @@
       <title>Ch. 9 — Continuous Responses and Least Squares</title>
       <description>In this chapter, we will introduce two algorithms for predicting continuous responses using the Ames house price prediction project as an example. Recall that our goal for this project is to predict the sale price of houses in Ames that are for sale in the year 2011. (We are focusing on 2011 because we are unlikely to be able to generate accurate predictions for today's housing market using the Ames housing data that was collected over a decade ago.)</description>
       <pubDate>Tue, 26 May 2026 21:40:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-09-continuous-responses-and-least-squares.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-09-continuous-responses-and-least-squares.mp3" length="26644941" type="audio/mpeg"/>
-      <itunes:duration>55:31</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-09-continuous-responses-and-least-squares.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-09-continuous-responses-and-least-squares.qwen-maia.mp3" length="29750445" type="audio/mpeg"/>
+      <itunes:duration>1:01:59</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -154,9 +154,9 @@
       <title>Ch. 10 — Extending the Least Squares Algorithm</title>
       <description>In the previous chapter, we introduced the idea of using a least squares or LAD fitted line to generate response predictions based on a single predictive feature. This chapter will expand on these ideas by producing predictive linear fits that use multiple predictive features as well as regularized predictive fits with improved stability and generalizability. Note that we will primarily focus on the least squares algorithm in this chapter, but many of the ideas we introduce can be similarly applied to other algorithms, such as the LAD algorithm.</description>
       <pubDate>Tue, 26 May 2026 21:41:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-10-extending-the-least-squares-algorithm.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-10-extending-the-least-squares-algorithm.mp3" length="33018192" type="audio/mpeg"/>
-      <itunes:duration>1:08:47</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-10-extending-the-least-squares-algorithm.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-10-extending-the-least-squares-algorithm.qwen-maia.mp3" length="36480621" type="audio/mpeg"/>
+      <itunes:duration>1:16:00</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -167,9 +167,9 @@
       <title>Ch. 11 — Binary Responses and Logistic Regression</title>
       <description>In our prediction problems so far, we have only considered problems that involve predicting a continuous response — house price is a continuous variable that can take a range of numeric values. However, many prediction problems in data science involve instead predicting a binary response, where each observation's response falls into one of two categories, such as "yes" or "no." A binary response is often referred to as the class label of the observation. Prediction problems with binary responses are often called classification problems because they involve classifying each observation as belonging to one of the two classes.</description>
       <pubDate>Tue, 26 May 2026 21:42:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-11-binary-responses-and-logistic-regression.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-11-binary-responses-and-logistic-regression.mp3" length="36962891" type="audio/mpeg"/>
-      <itunes:duration>1:17:00</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-11-binary-responses-and-logistic-regression.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-11-binary-responses-and-logistic-regression.qwen-maia.mp3" length="40579821" type="audio/mpeg"/>
+      <itunes:duration>1:24:32</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -180,9 +180,9 @@
       <title>Ch. 12 — Decision Trees and the Random Forest Algorithm</title>
       <description>The previous chapters have introduced algorithms, such as Least Squares and logistic regression, for generating predictions of continuous and binary responses. While these more traditional predictive algorithms are still commonly used in practice, the modern data science toolbox typically also contains several nonlinear predictive algorithms such as the Random Forest algorithm, which uses decision trees to generate predictions and will be the focus of this chapter. Other predictive algorithms that you are likely to encounter in your data science practice include Support Vector Machines, Kernel Ridge Regression, and Neural Networks, or "deep learning" algorithms — each of which can be thought of as a sophisticated extension of the Least Squares and logistic regression algorithms we have already introduced — however, we won't cover these in this book. See The Elements of Statistical Learning for a classic machine learning reference and Deep Learning for a deep learning and neural networks reference.</description>
       <pubDate>Tue, 26 May 2026 21:43:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-12-decision-trees-and-the-random-forest-algorithm.mp3" length="24897663" type="audio/mpeg"/>
-      <itunes:duration>51:52</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-12-decision-trees-and-the-random-forest-algorithm.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-12-decision-trees-and-the-random-forest-algorithm.qwen-maia.mp3" length="27832941" type="audio/mpeg"/>
+      <itunes:duration>57:59</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -193,9 +193,9 @@
       <title>Ch. 13 — Producing the Final Prediction Results</title>
       <description>The traditional approach to machine learning involves training a predictive algorithm on just one version of the cleaned and preprocessed training dataset and using the best-performing algorithm, evaluated using the corresponding validation set, to generate the final predictions for future data points. However, while this approach considers alternative algorithms, it does not consider alternative versions of the data used to train the algorithms. Specifically, the traditional ML approach ignores the uncertainty that arises from the specific dataset that was used to train the algorithm, including the judgment calls that we made during cleaning and preprocessing. In contrast, in the predictability, computability, and stability framework, which we call PCS, we train a variety of plausible alternative predictive fits, where each predictive fit corresponds to one particular algorithm trained using one particular version of the cleaned and preprocessed training data.</description>
       <pubDate>Tue, 26 May 2026 21:44:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-13-producing-the-final-prediction-results.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-13-producing-the-final-prediction-results.mp3" length="26412556" type="audio/mpeg"/>
-      <itunes:duration>55:01</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-13-producing-the-final-prediction-results.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-13-producing-the-final-prediction-results.qwen-maia.mp3" length="28188909" type="audio/mpeg"/>
+      <itunes:duration>58:44</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
@@ -206,9 +206,9 @@
       <title>Ch. 14 — Conclusion</title>
       <description>Whether you arrived here by skipping ahead or you dedicatedly read every single word of this book, congratulations on making it to the end. It's now time to bring this book to a close, with a summary of the primary themes and takeaway messages that we hope you have now embraced after finishing this book.</description>
       <pubDate>Tue, 26 May 2026 21:45:16 +0000</pubDate>
-      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-14-conclusion.mp3</guid>
-      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-14-conclusion.mp3" length="7963629" type="audio/mpeg"/>
-      <itunes:duration>16:35</itunes:duration>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/feed.xml#episodes/ch-14-conclusion.qwen-maia.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/books/vds-book/episodes/ch-14-conclusion.qwen-maia.mp3" length="9120621" type="audio/mpeg"/>
+      <itunes:duration>19:00</itunes:duration>
       <itunes:author>Bin Yu and Rebecca Barter</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:season>1</itunes:season>
