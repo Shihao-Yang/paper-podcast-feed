@@ -382,5 +382,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-09-26-quick-take-the-epidemiology-of-artificial-intelligence.mp3",
+    "title": "Quick Take \u2014 The Epidemiology of Artificial Intelligence",
+    "description": "The Epidemiology of Artificial Intelligence.",
+    "pub_date_iso": "2026-09-26T14:34:51.702379+00:00",
+    "audio_path": "episodes/2026-09-26-quick-take-the-epidemiology-of-artificial-intelligence.mp3",
+    "audio_size_bytes": 1468543,
+    "duration_seconds": 183.464399,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]
