@@ -394,5 +394,17 @@
     "season": null,
     "episode_number": null,
     "episode_type": null
+  },
+  {
+    "guid": "https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-09-26-the-epidemiology-of-artificial-intelligence.mp3",
+    "title": "The Epidemiology of Artificial Intelligence",
+    "description": "Artificial intelligence systems increasingly shape how people access health information, make medical decisions, and receive care. Yet epidemiology has no framework for measuring AI exposure or studying its effects on health at the population level. The authors argue that AI now functions as a determinant of health, and they propose a conceptual framework, borrowed from environmental epidemiology, for studying it.",
+    "pub_date_iso": "2026-09-26T14:34:50.702379+00:00",
+    "audio_path": "episodes/2026-09-26-the-epidemiology-of-artificial-intelligence.mp3",
+    "audio_size_bytes": 15645092,
+    "duration_seconds": 1955.531111,
+    "season": null,
+    "episode_number": null,
+    "episode_type": null
   }
 ]

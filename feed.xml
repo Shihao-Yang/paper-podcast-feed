@@ -8,7 +8,7 @@
     <link>https://shihao-yang.github.io/paper-podcast-feed/</link>
     <description>AI-narrated readings of machine learning, statistics, and epidemiology papers.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 14:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:35:59 +0000</lastBuildDate>
     <atom:link href="https://shihao-yang.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Sean Shihao Yang</itunes:author>
     <itunes:owner>
@@ -28,6 +28,16 @@
       <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-09-26-quick-take-the-epidemiology-of-artificial-intelligence.mp3</guid>
       <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-09-26-quick-take-the-epidemiology-of-artificial-intelligence.mp3" length="1468543" type="audio/mpeg"/>
       <itunes:duration>3:03</itunes:duration>
+      <itunes:author>Sean Shihao Yang</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Epidemiology of Artificial Intelligence</title>
+      <description>Artificial intelligence systems increasingly shape how people access health information, make medical decisions, and receive care. Yet epidemiology has no framework for measuring AI exposure or studying its effects on health at the population level. The authors argue that AI now functions as a determinant of health, and they propose a conceptual framework, borrowed from environmental epidemiology, for studying it.</description>
+      <pubDate>Sat, 26 Sep 2026 14:34:50 +0000</pubDate>
+      <guid isPermaLink="false">https://shihao-yang.github.io/paper-podcast-feed/feed.xml#episodes/2026-09-26-the-epidemiology-of-artificial-intelligence.mp3</guid>
+      <enclosure url="https://shihao-yang.github.io/paper-podcast-feed/episodes/2026-09-26-the-epidemiology-of-artificial-intelligence.mp3" length="15645092" type="audio/mpeg"/>
+      <itunes:duration>32:36</itunes:duration>
       <itunes:author>Sean Shihao Yang</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>
